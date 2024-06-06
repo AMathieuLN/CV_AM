@@ -1,0 +1,30 @@
+---
+title: "Teaching"
+editor: visual
+---
+
+## *Upcoming at* Université Panthéon-Sorbonne Paris 1
+
+List of upcoming courses.
+
+## Université Versailles Saint-Quentin-en-Yvelines (UVSQ)
+
+**Introduction to Game Theory (2023-2024)** - Third-year undergraduate students in Economics and Mathematics.
+
+**Supervision of an internship (April 2024 - July 2024)** - Master's student in EEDS.
+
+**Tutored projects (2022-2024)** - Master's students in EEDS on various issues : ajouter !!
+
+**Supervision of final bachelor's theses (2024)** - Groups of undergraduate students in MIASHS.
+
+## Fundamental Tools of Open Science / Outils fondamentaux de la science ouverte
+
+**"[De la gestion des données à la publication](https://www.umi-source.uvsq.fr/journees-sciences-ouverte-2024)"** - 1st Edition at **Université Félix Houphouët-Boigny (Abdijan)**, April 23-25, 2024.
+
+The course has been posted on GitHub :
+
+-   <https://amathieuln.github.io/SO_SOURCE/>
+
+-   ou <https://github.com/AMathieuLN/SO_SOURCE/tree/main>
+
+![](images/affiche_SO_avrilCI.png){width="232"}

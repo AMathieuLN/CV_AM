@@ -1,11 +1,65 @@
 ---
-title: "CV_AM"
+title: ""
+editor: visual
 ---
 
-This is a Quarto website.
++----------------------------------------+----------------------------------------------------------------------+
+| ![Abidjan, 2024](images/photo_cv3.png) | 47 bd. Vauban 78047 Guyancourt Cedex                                 |
+|                                        |                                                                      |
+|                                        | Email: [alexmathieu.ln\@gmail.com](mailto:alexmathieu.ln@gmail.com)  |
+|                                        |                                                                      |
+|                                        | [ORCID](https://orcid.org/0009-0009-6720-8731)                       |
+|                                        |                                                                      |
+|                                        | [HAL CV](https://cv.hal.science/alexandre-mathieu-ln)                |
+|                                        |                                                                      |
+|                                        | [LinkedIn](https://www.linkedin.com/in/alexandre-mathieu-28100519a/) |
+|                                        |                                                                      |
+|                                        | [Twitter](https://twitter.com/alexmathieuLN)                         |
+|                                        |                                                                      |
+|                                        | [GitHub](https://github.com/AMathieuLN)                              |
++----------------------------------------+----------------------------------------------------------------------+
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## **PhD Student**  
 
-```{r}
-1 + 1
-```
+I am a third-year **doctoral student** at the International Mixed Unit for Sustainability and Resilience ([UMI SOURCE](https://www.umi-source.uvsq.fr/)), affiliated with the University of Paris-Saclay ([UPSaclay](https://www.universite-paris-saclay.fr/en)), the University of Versailles Saint-Quentin-en-Yvelines ([UVSQ](https://www.uvsq.fr/english)), and the French National Research Institute for Sustainable Development ([IRD](https://en.ird.fr/)).
+
+My thesis examines the **role of green jobs in the sustainability and resilient development of marginalized economies**, within the Doctoral School of Law, Economics, Management ([DEM](https://www.universite-paris-saclay.fr/ecoles-doctorales/droit-economie-management-dem)) at the University of Paris-Saclay.
+
+As a referent for a **working group on doctoral inequalities**, I also analyze disparities between doctoral conditions in the North and South. Additionally, I have studying the **resilience of small island economies** in the face of a pandemic shock such as the Covid-19 crisis.
+
+Finally, my work is firmly rooted in an **open science approach**. I use the tools promoted by open science, and that allowed me to offer an initial training session in Abidjan in April 2024. Additionally, I take a reflective approach to these tools and, together with my colleagues, I participate in discussions on their potential as a response to **international research inequalities**.
+
+## Academic responsibilities
+
+-   *Since may 2024:* Associate Editor of **Development and Sustainability in Economics and Finance ([DSEF](https://www.sciencedirect.com/journal/development-and-sustainability-in-economics-and-finance/))**
+-   *Since February 2024:* Curator and administrator of scientific data for UMI SOURCE and the [**DataSuds**](https://dataverse.ird.fr/dataverse/umi_source/) platform of the **French National Research Institute for Sustainable Development** (**IRD**), since 2024.
+-   *Since 2022:* *Representative* *of doctoral students* at the **Doctoral School of Law, Economics, Management (DEM) of the University of Paris-Saclay**.
+-   *2022-2024:* *Representative of doctoral students at* **UMI SOURCE**.
+
+## Education and Qualifications
+
+-   *2021 - present:* PhD in [Economics]{.underline} at **UMI SOURCE** **(Université Paris-Saclay, UVSQ, IRD)**
+
+-   *2019 - 2021:* Master's in [Political Economy and Institutions]{.underline} at the **Université Paris-Saclay**, specializing in Economics and Evaluation of Development and Sustainability ([EEDS](https://www.universite-paris-saclay.fr/formation/master/economie-politique-et-institutions/m2-economie-et-evaluation-du-developpement-et-de-la-soutenabilite))
+
+-   *2016 - 2019:* Bachelor's in [Philosophy]{.underline} at **Sorbonne Université**
+
+-   *2015 - 2018:* Bachelor's in [Sociology]{.underline} at the **Université Versailles-Saint-Quentin-en-Yvelines**
+
+## Research Areas
+
+\[1\] Development Economics; Socio-economics; Green Economy; Ecological Economics; Sustainability; Resilience
+
+\[2\] Global South; Developing Countries; Marginalized Economies; Sub-Saharan Africa (SSA); Small Island Economies (SIEs)
+
+\[3\] Research Inequalities; Doctoral Inequalities
+
+\[4\] Open Science; Sustainability Science
+
+## Competences
+
+*Statistical and Econometric Tools:* R, Stata, Excel, GAMS.
+
+*Bibliographic and Bibliometric Tools:* Zotero, Quarto, LaTeX, Bibliometrix, VOSViewer, Microsoft Office.
+
+![](images/logo_source.jpeg){width="602"}

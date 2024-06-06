@@ -1,0 +1,62 @@
+---
+title: "Science Popularization"
+editor: visual
+---
+
+## 2021 - 2023
+
+Scientific writing-journalism at the Brand and Communication Department of Université Paris-Saclay.
+
+<!-- Insertion de plusieurs images côte à côte -->
+
+::: {style="display: flex; justify-content: space-around;"}
+![Image 3](images/edition21-02.png){alt="Image 3" width="323"}![Image 1](images/edition22-01.png){alt="Image 1" width="316"} ![Image 2](images/edition20-01.png){alt="Image 2" width="335"} ![](images/edition19.png){width="322"}
+:::
+
+\[24\] "Deciphering history and heritage: perspectives" in [L'Édition 22](https://www.universite-paris-saclay.fr/en/about/media/ledition-luniversite-paris-saclay-20) of Université Paris-Saclay (11/2023).
+
+\[23\] "[NectarGland: the genetic dance of flowers for pollinators](https://news.universite-paris-saclay.fr/en/news/nectargland-genetic-dance-flowers-pollinators)" (28/09/2023).
+
+\[22\] "Student ambassadors: support for new students" in [L'Édition 21](https://www.universite-paris-saclay.fr/en/news/new-release-ledition-n21) of Université Paris-Saclay (05/2023).
+
+\[21\] "Aspie-Friendly : nclusion of people with autism at the Université" in [L'Édition 21](https://www.universite-paris-saclay.fr/en/news/new-release-ledition-n21) of Université Paris-Saclay (05/2023).
+
+\[20\] "'Rendez-vous des jeunes mathématiciennes et informaticiennes' moves to l'ENS Paris-Saclay" in [L'Édition 21](https://www.universite-paris-saclay.fr/en/news/new-release-ledition-n21) of Université Paris-Saclay (05/2023).
+
+\[19\] "L'IconLab : boost your scientific mediation !" in [L'Édition 21](https://www.universite-paris-saclay.fr/en/news/new-release-ledition-n21) of Université Paris-Saclay (05/2023).
+
+\[18\] "[Gaël Varoquaux : IA for everyone](https://www.universite-paris-saclay.fr/en/news/gael-varoquaux-ai-everyone)" (12/05/2023).
+
+\[17\] "[VOLTING : from reduced mobility to augmented and emotional mobility](https://news.universite-paris-saclay.fr/en/news/volting-reduced-mobility-augmented-and-emotional-mobility)" (31/03/2023).
+
+\[16\] "[V-LF-SPIRO3D : respiration in images](https://www.universite-paris-saclay.fr/en/news/vlf-spiro3d-respiration-images)" (16/02/2023).
+
+15\] "Understanding the heterogeneity of autism forms" in [L'Édition 20](https://www.universite-paris-saclay.fr/en/about/media/ledition-luniversite-paris-saclay-20) of Université Paris-Saclay (01/2023).
+
+\[14\] "L'International School on Ultrafast X-ray Science 2022 at Paris-Saclay" in [L'Édition 19](https://www.universite-paris-saclay.fr/en/about/media/ledition-luniversite-paris-saclay-19) of Université Paris-Saclay (09/2022).
+
+\[13\] "QUARMEN Master's degree: at the cutting edge of quantum physics" in [L'Édition 19](https://www.universite-paris-saclay.fr/en/about/media/ledition-luniversite-paris-saclay-19) of Université Paris-Saclay (09/2022).
+
+\[12\] "[Climate and Environmental Upheaval: responses of non-western communities to signs of human extinction](https://www.universite-paris-saclay.fr/en/news/climate-and-environmental-upheaval-responses-non-western-communities-signs-human-extinction)" (30/09/2022).
+
+\[11\] "[Every gender deserves work free of inequality](https://www.universite-paris-saclay.fr/en/news/every-gender-deserves-work-free-inequality)" (09/09/2022).
+
+\[10\] "[ENDOVX : Improving the management of aortic injuries](https://www.universite-paris-saclay.fr/en/news/endovx-improving-management-aortic-injuries)" (14/04/2022).
+
+\[9\] "[CORSAIR : controlling the emission of light from ordered arrays of atoms](https://www.universite-paris-saclay.fr/en/news/corsair-controlling-emission-light-ordered-arrays-atoms)" (11/04/2022).
+
+\[8\] "Inauguration de l'IJCLab" in [L'Édi!tion 18](https://www.universite-paris-saclay.fr/luniversite/media-et-communication/ledition-de-luniversite-paris-saclay-18) of Université Paris-Saclay (05/2022).
+
+\[7\] "Volvox : Spotlight on the colours of gold at nanoscale" in [L'Édition 18](https://www.universite-paris-saclay.fr/en/about/media/ledition-luniversite-paris-saclay-18) of Université Paris-Saclay (05/2022).
+
+\[6\] "The 'harmonic telescope': Go on a hunt for exoplanets" in [L'Édition 18](https://www.universite-paris-saclay.fr/en/about/media/ledition-luniversite-paris-saclay-18) of Université Paris-Saclay (05/2022).
+
+\[5\] "[Neurodegenerative diseases: the links betseen astrocytes and neuropsychiatric symptoms](https://www.universite-paris-saclay.fr/en/news/neurodegenerative-diseases-links-between-astrocytes-and-neuropsychiatric-symptoms)" (10/03/2022).
+
+\[4\] "[Antoine Browaeys : The quest for quantum computing using cold atoms](https://news.universite-paris-saclay.fr/en/news/antoine-browaeys-quest-quantum-computing-using-cold-atoms)" (25/02/2022).
+
+\[3\] "[The closure of schools, Covid-19 and children's mental health](https://www.universite-paris-saclay.fr/en/news/closure-schools-covid-19-and-childrens-mental-health)" (19/01/2022).
+
+\[2\] "[Data Science or results science: are we shifting away from statistics?](https://news.universite-paris-saclay.fr/en/news/data-science-or-results-science-are-we-shifting-away-statistics)" (12/01/2022).
+
+\[1\] "[The Qiulai Qin's hidden song is finally revealed: when science makes music](https://www.universite-paris-saclay.fr/en/news/qiulai-qins-hidden-song-finally-revealed-when-science-makes-music)" (25/11/2021).

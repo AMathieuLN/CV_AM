@@ -1,0 +1,26 @@
+---
+title: ""
+editor: visual
+---
+
+## Edition
+
+*Associate Editor* of **Development and Sustainability in Economics and Finance ([DSEF](https://www.sciencedirect.com/journal/development-and-sustainability-in-economics-and-finance/))**
+
+![](images/dsef-03.jpeg){width="168"}
+
+In collaboration with the editor-in-chief, I develop and organize the "**DSEF Data Paper**" section within the journal. Based on my work and training experiences, a data paper model specific to the journal is proposed.
+
+## Referee Activity
+
+-   Environment, Development and Sustainability ([**ENVI**](https://link.springer.com/journal/10668))
+
+-   Development and Sustainability in Economics and Finance ([**DSEF**](https://www.sciencedirect.com/journal/development-and-sustainability-in-economics-and-finance/))
+
+## Data Curator
+
+*Curator* and *administrator of scientific data* for UMI SOURCE and the [**DataSuds**](https://dataverse.ird.fr/dataverse/umi_source/) platform of the French National Research Institute for Sustainable Development (Institut de Recherche pour le Développement - IRD), since 2024.
+
+![](images/bandeau_datasuds.png){width="642"}
+
+![](images/logo_IRD.png){width="177"}
