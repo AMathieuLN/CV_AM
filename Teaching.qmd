@@ -13,7 +13,13 @@ List of upcoming courses.
 
 **Supervision of an internship (April 2024 - July 2024)** - Master's student in EEDS.
 
-**Tutored projects (2022-2024)** - Master's students in EEDS on various issues : ajouter !!
+**Tutored projects (2022-2024)** - Master's students in EEDS on various issues :
+
+-   \[3\] Creation of a **carbon footprint** for the UMI SOURCE laboratory, using tools developed by the **Labos1point5** collective.
+
+-   \[2\] Quantitative analysis (bibliometrics, statistics and textometrics) of litterature on COVID-19 shock in small island economies (SIEs).
+
+-   \[1\] As part of the POLIR program financed by the Université Paris-Saclay to compile an index of vulnerability of small island economies to Covid-19.
 
 **Supervision of final bachelor's theses (2024)** - Groups of undergraduate students in MIASHS.
 

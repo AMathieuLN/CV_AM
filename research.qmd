@@ -3,7 +3,7 @@ title: ""
 editor: visual
 ---
 
-# Research 
+# Research
 
 ## Publications in Peer-reviewed Journals
 
@@ -13,9 +13,9 @@ editor: visual
 
 ## Book chapters
 
-\[2\] **Mathieu**, A. Rihi, Y. Massera, M. Moing, L. Nguirane, M.M. Madioune, E.M. Randriantseheno, M. Pian, L. (2024) "Doctoral inequalities between the Global North and the Global South: an initial exploration through literature" in *Dotoral Studies in Africa*. Ed. J-B. Meyer, A. African Minds. \[coming soon\]
+\[2\] **Mathieu**, A. Rihi, Y. Massera, M. Moing, L. Nguirane, M.M. Madioune, E.M. Randriantseheno, M. Pian, L. (2024) "Doctoral inequalities between the Global North and the Global South: an initial exploration through literature" in Meyer, J-B. Benguerna, M. Lounaci, A. \[Eds.\] *Dotoral Studies in Africa*. African Minds. \[coming soon\]
 
-\[1\] **Mathieu**, A. Rihi, Y. Massera, M. Moing, L. Nguirane, M.M. Madioune, E.M. Randriantseheno, M. Pian, L. (2024) ≪ Inégalités doctorales entre les Nords et les Suds : une première exploration depuis la littérature ≫ in *Le doctorat dans les Afriques*. Ed. J-B. Meyer, A. éditions IRD. \[coming soon\]
+\[1\] **Mathieu**, A. Rihi, Y. Massera, M. Moing, L. Nguirane, M.M. Madioune, E.M. Randriantseheno, M. Pian, L. (2024) ≪ Inégalités doctorales entre les Nords et les Suds : une première exploration depuis la littérature ≫ in Meyer, J-B. Benguerna, M. Lounaci, A. \[Eds.\] *Le doctorat dans les Afriques*. éditions IRD. \[coming soon\]
 
 ## Working papers
 
@@ -61,7 +61,7 @@ First productions:
 
 -   **Mathieu**, A. Rihi, Y. Massera, M. Moing, L. Nguirane, M.M. Madioune, E.M. Randriantseheno, M. Pian, L. (2024) "Inégalités doctorales entre les Nords et les Suds : une première exploration depuis la littérature" in *Le doctorat dans les Afriques*. Ed. J-B. Meyer, A. éditions IRD. \[coming soon\]
 
--   **Mathieu**, A. Pian, L. Ba, M. Madioune, E.M. Moing, L. N'da, L. Nguirane, M.M. Randriantseheno, M. Rihi, Y.  (2024) Disparités doctorales entre Nord et Sud : bilan et stratégies de « coordination juste » à l'UMI SOURCE (2022-2023). 2023. ⟨[hal-04336522](https://hal-lara.archives-ouvertes.fr/hal-04336522)⟩
+-   **Mathieu**, A. Pian, L. Ba, M. Madioune, E.M. Moing, L. N'da, L. Nguirane, M.M. Randriantseheno, M. Rihi, Y. (2024) Disparités doctorales entre Nord et Sud : bilan et stratégies de « coordination juste » à l'UMI SOURCE (2022-2023). 2023. ⟨[hal-04336522](https://hal-lara.archives-ouvertes.fr/hal-04336522)⟩
 
 ## POLICIES and Institutions in small island economies (SIE) for better resilience in response to the COVID crisis (POLIR)
 
