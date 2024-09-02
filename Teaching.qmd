@@ -3,9 +3,13 @@ title: "Teaching"
 editor: visual
 ---
 
-## *Upcoming at* Université Panthéon-Sorbonne Paris 1
+## Université Panthéon-Sorbonne Paris 1
 
-List of upcoming courses.
+**General Introduction to Economics (2024-2025)** - First-year undergraduate students in Economics.
+
+**Macroeconomics (2024-2025)** - Second-year undergraduate students in Mathematics and computer science applied to human and social sciences (MIASHS).
+
+**History of Economic Thought (2024-2025)** - Third-year undergraduate students in Economics.
 
 ## Université Versailles Saint-Quentin-en-Yvelines (UVSQ)
 
