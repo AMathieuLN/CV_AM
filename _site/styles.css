@@ -1,6 +1,0 @@
-/* css styles */
-/* Sélectionne l'image spécifique du logo dans la barre de navigation */
-.navbar-brand img[src="images/logo_source.jpeg"] {
-  width: 250px;  /* Ajustez cette valeur selon la taille souhaitée */
-  height: auto;  /* Maintient le ratio de l'image */
-}
