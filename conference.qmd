@@ -7,15 +7,17 @@ editor: visual
 
 ## 2024
 
--   Scientific Days 2024 of UMI SOURCE - at the Université Versailles Saint-Quentin-en-Yvelines, Guyancourt (France).
+-   [3rd Labos 1point5 conference](https://labos1point5.org/les-colloques) - "Environmental footprint and sustainability of research activities" / "Empreinte environnementale et soutenabilité des activités de recherche" - November 5-7, 2024 - organized at Sorbonne Université, campus Pierre et Marie Curie (France).
 
--   Conference Development Days of the Association Tiers Monde (ATM) / [Journées du développement de l'Association Tiers Monde (ATM) - May 2024](https://www.gemdev.org/33354) - organized at Condorcet, Aubervilliers (France).
+-   Scientific Days 2024 of UMI SOURCE ([JUMI 2024](https://www.umi-source.uvsq.fr/les-journees-scientifique-umi-source-2024)) - at the Université Versailles Saint-Quentin-en-Yvelines, Guyancourt (France).
+
+-   Conference Development Days of the Association Tiers Monde (ATM) / [Journées du développement de l'Association Tiers Monde (ATM) - May 2024](https://www.gemdev.org/33354) - May, 2024 - organized at Condorcet, Aubervilliers (France).
 
 -   [Workshop of the Inequalities Working Group (GT Inégalités)](https://www.gemdev.org/32975) of the French National Research Institute for Sustainable Developpement (IRD) - February 1-2, 2024 - organized at Condorcet, Aubervilliers (France).
 
 ## 2023
 
--   Doctoral Days "Critical Perspectives on Development" / "[Regards critiques sur le développement](#0)" - October 18-20, 2023  - organized by GEMDEV (Groupement pour l'étude de la mondialisation et du développement), Campus Condorcet, Aubervilliers (France).
+-   Doctoral Days "Critical Perspectives on Development" / "[Regards critiques sur le développement](#0)" - October 18-20, 2023 - organized by GEMDEV (Groupement pour l'étude de la mondialisation et du développement), Campus Condorcet, Aubervilliers (France).
 
 -   Conference on Development Days of the Association Tiers Monde (ATM) / J[ournées du développement de l'Association Tiers Monde (ATM) - May 2023](https://www.bse.u-bordeaux.fr/xxxviiies-journees-du-developpement-de-lassociation-tiers-monde/) - organized by Bordeaux School of Economics (BSE), UMR CNRS 5319 Passages, Université of Bordeaux-Montaigne and Les Afriques dans le Monde (LAM) Sciences Po Bordeaux, France.
 
@@ -31,7 +33,7 @@ editor: visual
 
 -   Conference on Overseas Economic Days ARUM / [Journées économiques des Outre-mer ARUM](https://www.umi-source.uvsq.fr/lumi-source-represente-au-colloque-arum-2022) - October 2022 - organized by the Economic, Social and Environmental Council of France - CESE (Conseil Économique, Social et Environnemental), Paris (France).
 
-# Conference organization 
+# Conference organization
 
 -   Organization and facilitation of the Open Science Days "From Data Management to Publication" / "[De la gestion des données à la publication](https://www.umi-source.uvsq.fr/journees-sciences-ouverte-2024)" - April 23-25, 2024 - *Université Félix Houphouët-Boigny and CIRES*, **Abidjan** (**Ivory Coast**).
 
