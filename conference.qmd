@@ -35,6 +35,8 @@ editor: visual
 
 # Conference organization
 
+-   Organization and animation of the workshop "Doctoral inequalities North-South: how to build fairer research practices?"/ "[Atelier Inégalités doctorales Nords-Suds: comment construire des pratiques de recherche plus justes ?](https://sites.google.com/view/jdrc-developpement/%C3%A9dition-2024-3/atelier-2-gtdid-in%C3%A9galit%C3%A9s-doctorales)" - November 20, 2024 - in the Doctoral Days "Critical Perspectives on Development" / "Regards critiques sur le développement" - *Centre de Colloques du Campus Condorcet*, **France**.
+
 -   Organization and facilitation of the Open Science Days "From Data Management to Publication" / "[De la gestion des données à la publication](https://www.umi-source.uvsq.fr/journees-sciences-ouverte-2024)" - April 23-25, 2024 - *Université Félix Houphouët-Boigny and CIRES*, **Abidjan** (**Ivory Coast**).
 
 -   Organization and facilitation of the [Scientific Days 2023 of UMI SOURCE](https://www.umi-source.uvsq.fr/les-journees-scientifiques-de-lumi-source-2023) - *Université Cheikh Anta Diop (UCAD)*, **Dakar** (**Senegal**).
