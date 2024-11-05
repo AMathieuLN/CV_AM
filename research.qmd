@@ -7,6 +7,8 @@ editor: visual
 
 ## Publications in Peer-reviewed Journals
 
+\[3\] **Mathieu**, A. (2024). Foundations and conditions of green jobs in developing economies: Systematic literature review and bibliometric analysis. Development and Sustainability in Economics and Finance. 100016. <https://doi.org/10.1016/j.dsef.2024.100016>
+
 \[2\] **Mathieu**, A. (2024). Bibliometric dataset (1995-2022) on green jobs : A comprehensive analysis of scientific publications. *Data in Brief*, 52, 109845. <https://doi.org/10.1016/j.dib.2023.109845>
 
 \[1\] **Mathieu**, A. Taranco, A. (2023). Insularité et souveraineté dans les politiques de lutte contre la COVID-19. *Mondes en développement*, 204, 35-58. <https://doi.org/10.3917/med.204.0035>
