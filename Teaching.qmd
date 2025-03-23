@@ -3,7 +3,9 @@ title: "Teaching"
 editor: visual
 ---
 
-## Université Panthéon-Sorbonne Paris 1
+## Lectures
+
+### Université Panthéon-Sorbonne Paris 1
 
 **General Introduction to Economics (2024-2025)** - First-year undergraduate students in Economics.
 
@@ -11,11 +13,13 @@ editor: visual
 
 **History of Economic Thought (2024-2025)** - Third-year undergraduate students in Economics.
 
-## Université Versailles Saint-Quentin-en-Yvelines (UVSQ)
+### Université Versailles Saint-Quentin-en-Yvelines (UVSQ)
 
 **Introduction to Game Theory (2023-2024)** - Third-year undergraduate students in Economics and Mathematics.
 
-**Supervision of an internship (April 2024 - July 2024)** - Master's student in EEDS.
+## Mentorship
+
+**Co-supervision of an internship (April 2024 - July 2024)** - Master's student in EEDS.
 
 **Tutored projects (2022-2024)** - Master's students in EEDS on various issues :
 
@@ -27,14 +31,10 @@ editor: visual
 
 **Supervision of final bachelor's theses (2024)** - Groups of undergraduate students in MIASHS.
 
-## Fundamental Tools of Open Science / Outils fondamentaux de la science ouverte
+## Courses
 
-**"[De la gestion des données à la publication](https://www.umi-source.uvsq.fr/journees-sciences-ouverte-2024)"** - 1st Edition at **Université Félix Houphouët-Boigny (Abdijan)**, April 23-25, 2024.
+\[2\] Co-design and development of the "T2VA" training protocol (integrating open science as a tool for Work, Valorization, Verification, and Support) for the PSF CREONS of UMI SOURCE, along with associated modules (in-person, video, and written materials). Detailed information and resources available on GitHub: <https://umisource.github.io/psf_creons/modules.html>
 
-The course has been posted on GitHub :
-
--   <https://amathieuln.github.io/SO_SOURCE/>
-
--   ou <https://github.com/AMathieuLN/SO_SOURCE/tree/main>
+\[1\] Design and development of the "Outils fondamentaux de la science ouverte : PGD, dépôt et data paper" course for PhD students, researchers and research support staff at the Université Félix-Houphoüet Boigny (Abidjan, Côte d'Ivoire), April 23-25, 2024. Course available on GitHub : <https://amathieuln.github.io/SO_SOURCE/> or <https://github.com/AMathieuLN/SO_SOURCE/tree/main>
 
 ![](images/affiche_SO_avrilCI.png){width="232"}

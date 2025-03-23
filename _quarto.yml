@@ -17,6 +17,8 @@ website:
         text: Edition & Referee
       - href: Teaching.qmd
         text: Teaching
+      - href: Project.qmd
+        text: Projects
       - href: journalism.qmd
         text: Science Popularization
 

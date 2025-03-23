@@ -5,9 +5,17 @@ editor: visual
 
 # Conference participation
 
+## 2025
+
+-   [10th European Conference on African Studies](https://www.ecasconference.org/2025/) - ECAS 2025 (Pragues)
+
+-   [One Ocean Science Congress 2025](https://one-ocean-science-2025.org/) (3rd United Nations Ocean Conference, Nice)
+
+-   Scientific Days 2025 of UMI SOURCE - JUMI - (Université d'Antananarivo, Madagascar)
+
 ## 2024
 
--   [3rd Labos 1point5 conference](https://labos1point5.org/les-colloques) - "Environmental footprint and sustainability of research activities" / "Empreinte environnementale et soutenabilité des activités de recherche" - November 5-7, 2024 - organized at Sorbonne Université, campus Pierre et Marie Curie (France).
+-   [3rd Labos 1point5 conference](https://labos1point5.org/les-colloques/colloque-2024) - "Environmental footprint and sustainability of research activities" / "Empreinte environnementale et soutenabilité des activités de recherche" - November 5-7, 2024 - organized at Sorbonne Université, campus Pierre et Marie Curie (France).
 
 -   Scientific Days 2024 of UMI SOURCE ([JUMI 2024](https://www.umi-source.uvsq.fr/les-journees-scientifique-umi-source-2024)) - at the Université Versailles Saint-Quentin-en-Yvelines, Guyancourt (France).
 
@@ -34,6 +42,8 @@ editor: visual
 -   Conference on Overseas Economic Days ARUM / [Journées économiques des Outre-mer ARUM](https://www.umi-source.uvsq.fr/lumi-source-represente-au-colloque-arum-2022) - October 2022 - organized by the Economic, Social and Environmental Council of France - CESE (Conseil Économique, Social et Environnemental), Paris (France).
 
 # Conference organization
+
+-   Organization and animation of the Workshop series “Towards a just research transition: data sovereignty, equity and sustainability” (2025)
 
 -   Organization and animation of the workshop "Doctoral inequalities North-South: how to build fairer research practices?"/ "[Atelier Inégalités doctorales Nords-Suds: comment construire des pratiques de recherche plus justes ?](https://sites.google.com/view/jdrc-developpement/%C3%A9dition-2024-3/atelier-2-gtdid-in%C3%A9galit%C3%A9s-doctorales)" - November 20, 2024 - in the Doctoral Days "Critical Perspectives on Development" / "Regards critiques sur le développement" - *Centre de Colloques du Campus Condorcet*, **France**.
 
