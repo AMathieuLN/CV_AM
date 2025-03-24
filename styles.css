@@ -4,9 +4,3 @@
   width: 250px;  /* Ajustez cette valeur selon la taille souhaitée */
   height: auto;  /* Maintient le ratio de l'image */
 }
-
-/* Exemple : mettre en surbrillance l'onglet "CV" quand le body a la classe "cv" */
-body.cv .navbar .nav-item.dropdown > a {
-  background-color: #e0e0e0; /* Choisissez la couleur qui vous convient */
-  font-weight: bold;
-}
