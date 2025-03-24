@@ -25,6 +25,12 @@ website:
         text: Science Popularization
       - href: CV.qmd
         text: CV
+      - text: "CV"
+        menu:
+          - text: "CV_AM_FR"
+            href: cv_pdf/CV_AM_FR.pdf
+          - text: "CV_AM_EN"
+            href: cv_pdf/CV_AM_EN.pdf  
 
 format:
   html:
