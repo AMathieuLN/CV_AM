@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: .
+  resources:
+    - cv_pdf
 
 website:
   title: "Alexandre MATHIEU"
