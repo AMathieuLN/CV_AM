@@ -3,6 +3,6 @@ title: "Curriculum vitæ"
 editor: visual
 ---
 
-CV pdf in english : [lien](/Users/alexm/Documents/Recherches_scientifiques/CV_AM/cv_pdf/CV_AM_EN.pdf)
+CV pdf in english : [lien](cv_pdf/CV_AM_EN.pdf)
 
-CV pdf in french : [lien](/Users/alexm/Documents/Recherches_scientifiques/CV_AM/cv_pdf/CV_AM_FR.pdf)
+CV pdf in french : [lien](cv_pdf/CV_AM_FR.pdf)
