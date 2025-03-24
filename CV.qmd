@@ -3,6 +3,6 @@ title: "Curriculum vitæ"
 editor: visual
 ---
 
-CV pdf in english : [lien](cv_pdf/CV_AM_EN.pdf)
+[CV pdf in english](cv_pdf/CV_AM_EN.pdf)
 
-CV pdf in french : [lien](cv_pdf/CV_AM_FR.pdf)
+[CV pdf in french](cv_pdf/CV_AM_FR.pdf)
