@@ -1,6 +1,7 @@
 ---
 title: "Curriculum vitæ"
 editor: visual
+active: CV
 ---
 
 [CV pdf in english](cv_pdf/CV_AM_EN.pdf)
