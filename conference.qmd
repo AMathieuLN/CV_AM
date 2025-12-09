@@ -3,15 +3,17 @@ title: ""
 editor: visual
 ---
 
-# Conference participation
+# Conference/Seminar/Workshop participation
 
 ## 2025
 
+-   [12th Annual Conference of the French Association of Environmental and Resource Economists](https://faere2025.sciencesconf.org/?lang=en) - FAERE 2025 (Nantes)
+
 -   [10th European Conference on African Studies](https://www.ecasconference.org/2025/) - ECAS 2025 (Pragues)
 
--   [One Ocean Science Congress 2025](https://one-ocean-science-2025.org/) (3rd United Nations Ocean Conference, Nice)
+-   [One Ocean Science Congress 2025](https://one-ocean-science-2025.org/) - 3rd United Nations Ocean Conference (Nice)
 
--   Scientific Days 2025 of UMI SOURCE - JUMI - (Université d'Antananarivo, Madagascar)
+-   [Scientific Days 2025 of UMI SOURCE](https://www.umi-source.uvsq.fr/les-journees-scientifique-umi-source-2025) - JUMI 2025 - (Université d'Antananarivo, Madagascar)
 
 ## 2024
 
@@ -41,11 +43,13 @@ editor: visual
 
 -   Conference on Overseas Economic Days ARUM / [Journées économiques des Outre-mer ARUM](https://www.umi-source.uvsq.fr/lumi-source-represente-au-colloque-arum-2022) - October 2022 - organized by the Economic, Social and Environmental Council of France - CESE (Conseil Économique, Social et Environnemental), Paris (France).
 
-# Conference organization
+# Conference/Seminar/Workshop organization
 
--   Organization and animation of the Workshop series “Towards a just research transition: data sovereignty, equity and sustainability” (2025)
+-   12/12/2025 - Organization and animation of the international workshop "[Towards an equitable and open Global North-South research community (CREONS)](https://www.umi-source.uvsq.fr/international-workshop-towards-an-equitable-and-open-global-north-south-research-community-creons)" (Dec. 12, 2025), Versailles Saint-Quentin-en-Yvelines (**France**).
 
--   Organization and animation of the workshop "Doctoral inequalities North-South: how to build fairer research practices?"/ "[Atelier Inégalités doctorales Nords-Suds: comment construire des pratiques de recherche plus justes ?](https://sites.google.com/view/jdrc-developpement/%C3%A9dition-2024-3/atelier-2-gtdid-in%C3%A9galit%C3%A9s-doctorales)" - November 20, 2024 - in the Doctoral Days "Critical Perspectives on Development" / "Regards critiques sur le développement" - *Centre de Colloques du Campus Condorcet*, **France**.
+-   2025 - Organization and animation of the workshop series “[Just research transition: data sovereignty, equity and sustainability](https://www.umi-source.uvsq.fr/cycle-de-workshops-%C2%AB-vers-une-transition-juste-de-la-recherche-souverainete-sur-les-donnees-equite-et-soutenabilite-%C2%BB)” (April 1st, 2025), Versailles Saint-Quentin-en-Yvelines (**France**).
+
+-   2024 - Organization and animation with the European Association of Development Research and Training Instituts (EADI) of the workshop "[Doctoral inequalities North-South: how to build fairer research practices?](https://sites.google.com/view/jdrc-developpement/%C3%A9dition-2024-3/atelier-2-gtdid-in%C3%A9galit%C3%A9s-doctorales)" (November 20, 2024) - in the Doctoral Days "Critical Perspectives on Development" - *Centre de Colloques du Campus Condorcet* (**France)**.
 
 -   Organization and facilitation of the Open Science Days "From Data Management to Publication" / "[De la gestion des données à la publication](https://www.umi-source.uvsq.fr/journees-sciences-ouverte-2024)" - April 23-25, 2024 - *Université Félix Houphouët-Boigny and CIRES*, **Abidjan** (**Ivory Coast**).
 

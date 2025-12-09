@@ -21,13 +21,9 @@ editor: visual
 
 ## **PhD Student**
 
-I am a third-year **doctoral student** at the International Mixed Unit for Sustainability and Resilience ([UMI SOURCE](https://www.umi-source.uvsq.fr/)), affiliated with the University of Paris-Saclay ([UPSaclay](https://www.universite-paris-saclay.fr/en)), the University of Versailles Saint-Quentin-en-Yvelines ([UVSQ](https://www.uvsq.fr/english)), and the French National Research Institute for Sustainable Development ([IRD](https://en.ird.fr/)), and I am also Temporary teaching and research associate (ATER) at the Sorbonne School of Economics ([Université Panthéon-Sorbonne Paris 1](https://www.pantheonsorbonne.fr/)).
+Docteur en économie de l’Université Paris-Saclay, je suis actuellement postdoctorant en économie politique au sein de l’**Unité Mixte Internationale Soutenabilité et Résilience – SOURCE** (Université Paris-Saclay, UVSQ, IRD). Mes recherches se structurent autour de deux déclinaisons du travail : d’une part, le **travail vert**, que j’étudie dans une approche d’économie politique du développement et du chiffre, en lien avec l’informalité et les transitions justes dans les économies des Suds ; d’autre part, le **travail scientifique**, que j’analyse à travers une économie politique des sciences attentive à la souveraineté scientifique, à la science ouverte et aux inégalités de production des savoirs.\
 
-My thesis examines the **role of green jobs in the sustainability and resilient development of marginalized economies**, within the Doctoral School of Law, Economics, Management ([DEM](https://www.universite-paris-saclay.fr/ecoles-doctorales/droit-economie-management-dem)) at the University of Paris-Saclay.
-
-As a referent for a **working group on doctoral inequalities**, I also analyze disparities between doctoral conditions in the North and South. Additionally, I have studying the **resilience of small island economies** in the face of a pandemic shock such as the Covid-19 crisis.
-
-Finally, my work is firmly rooted in an **open science approach**. I use the tools promoted by open science, and that allowed me to offer an initial training session in Abidjan in April 2024. I take a reflective approach to these tools and, together with my colleagues, I participate in discussions on their potential as a response to **international research inequalities**.
+Je mobilise des méthodes quantitatives, qualitatives, bibliométriques, et des jeux de données ouverts pour analyser les dynamiques d’emploi et de soutenabilité, tout en inscrivant mes travaux dans une réflexion plus large sur les conditions d’une transition soutenable plus équitable et ouverte entre Nords et Suds.
 
 ## Academic responsibilities
 

@@ -9,15 +9,22 @@ editor: visual
 
 \[3\] **Mathieu**, A. (2024). Foundations and conditions of green jobs in developing economies: Systematic literature review and bibliometric analysis. *Development and Sustainability in Economics and Finance*. 100016. <https://doi.org/10.1016/j.dsef.2024.100016>
 
+::: {.callout-note collapse="true"}
+## Abstract
+Abstract: This article examines the challenges and opportunities for implementing Green Jobs (GJs) in developing economies. A systematic literature review and bibliometric analysis of 516 scientific articles reveals a tension between short-term economic aspirations and long-term sustainable goals. The objective is to identify the conditions under which green jobs can effectively contribute to sustainable development in these economies. In the current context marked by multiple shocks, the concept of green jobs is perceived as a potential response to crises. However, debates about its definition persist, particularly in developing economies that are often overlooked and that question both the ‘‘green’’ and ‘‘jobs’’ components of GJs. The pervasive informal sector in these economies presents both a challenge and an opportunity for the green transition. The success of this transition is contingent upon substantial investments in human capital, as well as a long-term vision that harmoniously integrates economic and sustainability considerations. Emerging small-scale technologies appear as transformative opportunities, especially in these contexts. However, for green jobs to be genuinely effective, they must be supported by a robust economic and legislative framework. The study concludes by emphasizing the underrepresentation of developing economies in the English-language literature on green jobs, underscoring the need for a more inclusive approach.
+:::
+
 \[2\] **Mathieu**, A. (2024). Bibliometric dataset (1995-2022) on green jobs : A comprehensive analysis of scientific publications. *Data in Brief*, 52, 109845. <https://doi.org/10.1016/j.dib.2023.109845>
+
+Abstract: The realm of green jobs presents a fertile ground for un- derstanding the intersecting pathways between sustainable transition and the labor market. We have crafted a biblio- metric dataset centered on this concept, amassing 414 ar- ticles from the Scopus and Web of Science databases, fol- lowing a laid down protocol, PRISMA, spanning the period from 1995 to 2022. This endeavor aims to depict the dy- namics, themes, and conceptual approaches shaping the dis- course on green jobs. The dataset, structured around 13 de- scriptive variables such as authors, keywords, and cited ref- erences, is made available to researchers, institutions, and decision-makers to provide insight into the academic debates on ecological transition through the lens of employment, es- pecially in the wake of a green economy. The potential for reutilizing these data is expansive. They can serve as a foun- dation for comparative analyses with the media and institu- tional portrayals of green jobs. Furthermore, the dataset can be enriched by integrating other forms of literature, such as books, chapters, or conference proceedings, while retaining the existing structure. This expansibility paves the way for a multidisciplinary and multilingual exploration, thereby en- hancing the richness and diversity of possible analyses. 
 
 \[1\] **Mathieu**, A. Taranco, A. (2023). Insularité et souveraineté dans les politiques de lutte contre la COVID-19. *Mondes en développement*, 204, 35-58. <https://doi.org/10.3917/med.204.0035>
 
+Abstract: This paper examines COVID-19 policies implemented by small island economies (SIEs), focusing on differences between SIEs and non-SIEs, and between affiliated and independent SIEs. A single database comprising eighty-four SIEs helps analyze the measures adopted and implementation timelines. The results reveal that SIEs took action early compared to non-SIEs, with no clear distinction between affiliated and independent SIEs. Insularity is distinguished by earlier action implementation times, while the independence criterion did not show a significant difference.
+
 ## Book chapters
 
-\[4\] **Mathieu**, A. Rihi, Y. Massera, M. Moing, L. Nguirane, M.M. Madioune, E.M. Randriantseheno, M. Pian, L. (2025) “Doctoral inequalities between the Global North and the Global South: an initial exploration through literature” in Meyer, J-B. Benguerna, M. Lounaci, A. \[Eds.\] Doctoral studies in Africa: special cases and global resonances. *African Minds*. \[coming soon\]
-
-\[3\] **Mathieu**, A. Rihi, Y. Massera, M. Moing, L. Nguirane, M.M. Madioune, E.M. Randriantseheno, M. Pian, L. (2025) ≪ Inégalités doctorales entre les Nords et les Suds : une première exploration depuis la littérature ≫ in Meyer, J-B. Benguerna, M. Lounaci, A. \[Eds.\] Des études doctorales en Afrique : Cas particuliers et résonnances globales. *éditions IRD*. \[coming soon\]
+\[3\] **Mathieu**, A. Rihi, Y. Massera, M. Moing, L. Nguirane, M.M. Madioune, E.M. Randriantseheno, M. Pian, L. (2025) ≪ Inégalités doctorales entre les Nords et les Suds : une première exploration depuis la littérature ≫ in Meyer, J-B. Benguerna, M. Lounaci, A. \[Eds.\] *Des études doctorales en Afrique : Cas particuliers et résonnances globales*. Éditions IRD & African Minds. [ISBN: 978-2-7099-3080-2](978-2-7099-3080-2)
 
 \[2\] **Mathieu**, A. Geronimi, V. Taranco, A. (2025) "COVID-19 et réponses insulaires : une analyse ouverte avec le jeu de données SIECRT", in Clément, M. et al. \[Eds\] Politiques de développement, acteurs et évaluations, *EME Louvain* \[coming soon\]
 
@@ -25,17 +32,17 @@ editor: visual
 
 ## Working papers
 
+\[2\] Blanc, B. **Mathieu**, A. Geronimi, V. et al. "How Much Worth is the Deep-Sea? Insights from a Meta-Analysis", *One Science Congress 2025I*, Nice, France, 3-6 Jun 2025, OOS2025-699, <https://doi.org/10.5194/oos2025-699>
+
 \[1\] **Mathieu**, A. Taranco, A. Geronimi, V. A Dataset on Covid-19 Responses in Small Island Economies. *Available at SSRN 4651669*. <http://dx.doi.org/10.2139/ssrn.4651669>
 
 ## Work in progress
 
-\[4\] "Economic performance, resilience and sustainability of jobs with greening potentiel", *Work in progress*.
+\[4\] "The role of jobs with high greening potential in macroeconomic performance and sustainability", *Work in progress*.
 
-\[3\] "Jobs with greening potential: an international, temporal and sectoral comparative analysis", *Work in progress*.
+\[3\] "Greening jobs in the Global South: a critical and sectoral analysis of the potential for environmental transition", *Work in progress*.
 
 \[2\] "Vers une 'transition juste de la recherche'", *Work in progress*.
-
-\[1\] "How Much Worth is the Deep-Sea? Insights from a Meta-Analysis", with B. Blanc, V. Geronimi, S. Goutte, L. Goury, *Work in progress*.
 
 ## Datasets
 
@@ -44,6 +51,8 @@ editor: visual
 \[1\] **Mathieu**, A. (2023). SIECRT - Small Island Economies COVID-19 Response Tracker. *Recherche Data Gouv*, V1. <https://doi.org/10.57745/I69YFF>
 
 ## Replication data
+
+\[2\] Replication data for chapters 2 and 3 of my thesis entitled "Political economy of green jobs: informality in the Global South and the quest for a just transition" (Mathieu 2025) in : <https://github.com/AMathieuLN/these_EV_2025>
 
 \[1\] Replication data for : "Penser les transitions justes dans les Suds : enjeux et perspectives de quantification pour les politiques d'emplois verts" (Mathieu et Rihi, 2025) in: <https://github.com/AMathieuLN/Just_Transitions_Green_Jobs>
 
@@ -81,9 +90,11 @@ Directed by V. Geronimi for UMI SOURCE (ex-CEMOTEV) (France), LARJE (New Caledon
 
 I took part in this program as part of my M2 internship, which resulted in several scientific productions:
 
+-   **Mathieu**, A. Geronimi, V. Taranco, A. (2025) "COVID-19 et réponses insulaires : une analyse ouverte avec le jeu de données SIECRT", in Clément, M. et al. \[Eds\] Politiques de développement, acteurs et évaluations, *EME Louvain* \[coming soon\]
+
 -   **Mathieu**, A. Taranco, A. (2023). Insularité et souveraineté dans les politiques de lutte contre la COVID-19. *Mondes en développement*, 204, 35-58. <https://doi.org/10.3917/med.204.0035>
 
--   **Mathieu**, A. Taranco, A. Geronimi, V. A Dataset on Covid-19 Responses in Small Island Economies. *Available at SSRN 4651669*. <http://dx.doi.org/10.2139/ssrn.4651669>
+-   **Mathieu**, A. Taranco, A. Geronimi, V. (2023) A Dataset on Covid-19 Responses in Small Island Economies. *Available at SSRN 4651669*. <http://dx.doi.org/10.2139/ssrn.4651669>
 
 -   **Mathieu**, A. (2023). SIECRT - Small Island Economies COVID-19 Response Tracker. *Recherche Data Gouv*, V1. <https://doi.org/10.57745/I69YFF>
 
