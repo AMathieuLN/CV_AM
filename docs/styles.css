@@ -4,35 +4,3 @@
   width: 250px;  /* Ajustez cette valeur selon la taille souhaitée */
   height: auto;  /* Maintient le ratio de l'image */
 }
-
-.pub-card {
-  border: 1px solid #e3e3e3;
-  border-radius: 10px;
-  padding: 15px;
-  margin-bottom: 20px;
-  background: #fafafa;
-  box-shadow: 0 3px 6px rgba(0,0,0,0.05);
-}
-
-.pub-header {
-  font-size: 1.05rem;
-  font-weight: 600;
-  display: flex;
-  justify-content: space-between;
-  cursor: pointer;
-}
-
-.pub-toggle {
-  color: #337ab7;
-}
-
-.pub-abstract {
-  display: none;
-  margin-top: 10px;
-  line-height: 1.45;
-  font-size: 0.95rem;
-}
-
-.pub-card.open .pub-abstract {
-  display: block;
-}

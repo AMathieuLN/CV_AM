@@ -7,15 +7,61 @@ editor: visual
 
 ## Publications in Peer-reviewed Journals
 
-<div class="pub-card">
-  <div class="pub-header">
-    <strong>\[3\] **Mathieu**, A. (2024). Foundations and conditions of green jobs in developing economies: Systematic literature review and bibliometric analysis. *Development and Sustainability in Economics and Finance*. 100016. <https://doi.org/10.1016/j.dsef.2024.100016>
-     <span class="pub-toggle">Abstract ▾</span>
-  </div>
-  <div class="pub-abstract">
-This article examines the challenges and opportunities for implementing Green Jobs (GJs) in developing economies. A systematic literature review and bibliometric analysis of 516 scientific articles reveals a tension between short-term economic aspirations and long-term sustainable goals. The objective is to identify the conditions under which green jobs can effectively contribute to sustainable development in these economies. In the current context marked by multiple shocks, the concept of green jobs is perceived as a potential response to crises. However, debates about its definition persist, particularly in developing economies that are often overlooked and that question both the ‘‘green’’ and ‘‘jobs’’ components of GJs. The pervasive informal sector in these economies presents both a challenge and an opportunity for the green transition. The success of this transition is contingent upon substantial investments in human capital, as well as a long-term vision that harmoniously integrates economic and sustainability considerations. Emerging small-scale technologies appear as transformative opportunities, especially in these contexts. However, for green jobs to be genuinely effective, they must be supported by a robust economic and legislative framework. The study concludes by emphasizing the underrepresentation of developing economies in the English-language literature on green jobs, underscoring the need for a more inclusive approach.
+<div class="accordion" id="pub3">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="heading3">
+      <button class="accordion-button collapsed" type="button"
+              data-bs-toggle="collapse" data-bs-target="#collapse3"
+              aria-expanded="false" aria-controls="collapse3">
+        [3] Mathieu, A. (2024). Foundations and conditions of green jobs in developing economies:
+        Systematic literature review and bibliometric analysis. *Development and Sustainability in Economics and Finance*, 100016.
+      </button>
+    </h2>
+
+    <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3">
+      <div class="accordion-body">
+        <p><a href="https://doi.org/10.1016/j.dsef.2024.100016" target="_blank">
+          https://doi.org/10.1016/j.dsef.2024.100016
+        </a></p>
+
+        <p>
+        This article examines the challenges and opportunities for implementing Green Jobs (GJs) in developing
+        economies. A systematic literature review and bibliometric analysis of 516 scientific articles reveals a
+        tension between short-term economic aspirations and long-term sustainable goals. The objective is to
+        identify the conditions under which green jobs can effectively contribute to sustainable development in
+        these economies.
+        </p>
+
+        <p>
+        In the current context marked by multiple shocks, the concept of green jobs is perceived as a potential
+        response to crises. However, debates about its definition persist, particularly in developing economies
+        that are often overlooked and that question both the “green” and “jobs” components of GJs.
+        </p>
+
+        <p>
+        The pervasive informal sector in these economies presents both a challenge and an opportunity for the
+        green transition. The success of this transition is contingent upon substantial investments in human
+        capital, as well as a long-term vision that harmoniously integrates economic and sustainability
+        considerations.
+        </p>
+
+        <p>
+        Emerging small-scale technologies appear as transformative opportunities, especially in these contexts.
+        However, for green jobs to be genuinely effective, they must be supported by a robust economic and
+        legislative framework.
+        </p>
+
+        <p>
+        The study concludes by emphasizing the underrepresentation of developing economies in the English-language
+        literature on green jobs, underscoring the need for a more inclusive approach.
+        </p>
+      </div>
+    </div>
+
   </div>
 </div>
+
+
 
 \[2\] **Mathieu**, A. (2024). Bibliometric dataset (1995-2022) on green jobs : A comprehensive analysis of scientific publications. *Data in Brief*, 52, 109845. <https://doi.org/10.1016/j.dib.2023.109845>
 
@@ -110,11 +156,3 @@ I took part in this program as part of my M2 internship, which resulted in sever
     SIECRT dataset is deposited in the Recherche Data Gouv data warehouse. This dataset focuses on public health measures taken by 26 small affiliated island economies in their fight against the Covid-19 pandemic, from January 2020 to April 2021, with exceptions up to October 2021. Unique in its kind, it focuses on affiliated (or non-independent) island economies, usually overlooked in other databases, and includes eight daily-coded public health measures, such as restrictions on gatherings, educational establishments and international travel.
     
     
-<script>
-document.querySelectorAll('.pub-card').forEach(card => {
-  card.querySelector('.pub-toggle').onclick = () => {
-    card.classList.toggle('open');
-  };
-});
-</script>
-
