@@ -18,12 +18,14 @@ This article examines the challenges and opportunities for implementing Green Jo
 \[2\] **Mathieu**, A. (2024). Bibliometric dataset (1995-2022) on green jobs : A comprehensive analysis of scientific publications. *Data in Brief*, 52, 109845. <https://doi.org/10.1016/j.dib.2023.109845>
 
 ::: {.callout-note collapse="true"}
+## Abstract
 The realm of green jobs presents a fertile ground for un- derstanding the intersecting pathways between sustainable transition and the labor market. We have crafted a biblio- metric dataset centered on this concept, amassing 414 ar- ticles from the Scopus and Web of Science databases, fol- lowing a laid down protocol, PRISMA, spanning the period from 1995 to 2022. This endeavor aims to depict the dy- namics, themes, and conceptual approaches shaping the dis- course on green jobs. The dataset, structured around 13 de- scriptive variables such as authors, keywords, and cited ref- erences, is made available to researchers, institutions, and decision-makers to provide insight into the academic debates on ecological transition through the lens of employment, es- pecially in the wake of a green economy. The potential for reutilizing these data is expansive. They can serve as a foun- dation for comparative analyses with the media and institu- tional portrayals of green jobs. Furthermore, the dataset can be enriched by integrating other forms of literature, such as books, chapters, or conference proceedings, while retaining the existing structure. This expansibility paves the way for a multidisciplinary and multilingual exploration, thereby en- hancing the richness and diversity of possible analyses.
 :::
 
 \[1\] **Mathieu**, A. Taranco, A. (2023). Insularité et souveraineté dans les politiques de lutte contre la COVID-19. *Mondes en développement*, 204, 35-58. <https://doi.org/10.3917/med.204.0035>
 
 ::: {.callout-note collapse="true"}
+## Abstract
 This paper examines COVID-19 policies implemented by small island economies (SIEs), focusing on differences between SIEs and non-SIEs, and between affiliated and independent SIEs. A single database comprising eighty-four SIEs helps analyze the measures adopted and implementation timelines. The results reveal that SIEs took action early compared to non-SIEs, with no clear distinction between affiliated and independent SIEs. Insularity is distinguished by earlier action implementation times, while the independence criterion did not show a significant difference.
 :::
 
