@@ -14,14 +14,12 @@ editor: visual
 |                                        |                                                                      |
 |                                        | [LinkedIn](https://www.linkedin.com/in/alexandre-mathieu-28100519a/) |
 |                                        |                                                                      |
-|                                        | [Twitter](https://twitter.com/alexmathieuLN)                         |
-|                                        |                                                                      |
 |                                        | [GitHub](https://github.com/AMathieuLN)                              |
 +----------------------------------------+----------------------------------------------------------------------+
 
 ## **PhD Student**
 
-Docteur en économie de l’Université Paris-Saclay, je suis actuellement postdoctorant en économie politique au sein de l’**Unité Mixte Internationale Soutenabilité et Résilience – SOURCE** (Université Paris-Saclay, UVSQ, IRD). Mes recherches se structurent autour de deux déclinaisons du travail : d’une part, le **travail vert**, que j’étudie dans une approche d’économie politique du développement et du chiffre, en lien avec l’informalité et les transitions justes dans les économies des Suds ; d’autre part, le **travail scientifique**, que j’analyse à travers une économie politique des sciences attentive à la souveraineté scientifique, à la science ouverte et aux inégalités de production des savoirs.\
+Docteur en économie de l’Université Paris-Saclay, je suis actuellement postdoctorant en économie politique au sein de l’**Unité Mixte Internationale Soutenabilité et Résilience – SOURCE** (Université Paris-Saclay, UVSQ, IRD). Mes recherches se structurent autour de deux secteurs du marché du travail : d’une part, le **travail vert**, que j’étudie dans une approche d’économie politique du développement et du chiffre, en lien avec l’informalité et les transitions justes dans les économies des Suds ; d’autre part, le **travail scientifique**, que j’analyse à travers une économie politique des sciences attentive à la souveraineté scientifique, à la science ouverte et aux inégalités de production des savoirs.
 
 Je mobilise des méthodes quantitatives, qualitatives, bibliométriques, et des jeux de données ouverts pour analyser les dynamiques d’emploi et de soutenabilité, tout en inscrivant mes travaux dans une réflexion plus large sur les conditions d’une transition soutenable plus équitable et ouverte entre Nords et Suds.
 
@@ -59,5 +57,3 @@ Je mobilise des méthodes quantitatives, qualitatives, bibliométriques, et des 
 *Bibliographic and Bibliometric Tools:* Zotero, Quarto, LaTeX, Bibliometrix, VOSViewer, Microsoft Office.
 
 ![](images/logo_source.jpeg){width="492"}
-
-![](images/sorbonne.png){width="379"}

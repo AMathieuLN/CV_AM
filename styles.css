@@ -1,6 +1,76 @@
-/* css styles */
-/* Sélectionne l'image spécifique du logo dans la barre de navigation */
+/* ---------------------------------------------------
+   LOGO NAVBAR
+--------------------------------------------------- */
 .navbar-brand img[src="images/logo_source.jpeg"] {
-  width: 250px;  /* Ajustez cette valeur selon la taille souhaitée */
-  height: auto;  /* Maintient le ratio de l'image */
+  width: 250px;
+  height: auto;
 }
+
+/* ---------------------------------------------------
+   CALLOUT SUBTIL & ÉLÉGANT POUR ABSTRACTS
+--------------------------------------------------- */
+.callout-note {
+  border: 1px solid #e0e0e0 !important;
+  background: #ffffff !important;
+  border-radius: 6px !important;
+  box-shadow: none !important;
+  padding: 0.8em 1em !important;
+}
+
+/* En-tête du callout */
+.callout-note .callout-header {
+  background-color: transparent !important;
+  border-bottom: 1px solid #e9e9e9 !important;
+  padding-bottom: 0.4em !important;
+  margin-bottom: 0.7em !important;
+}
+
+/* Titre "Abstract" plus discret */
+.callout-note h2,
+.callout-note h3 {
+  font-size: 1.05em;
+  margin: 0;
+  font-weight: 600;
+  color: #444;
+}
+
+/* Texte justifié à l'intérieur du callout */
+.callout-note p {
+  text-align: justify;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+
+/* Triangle du collapsible, plus subtil */
+.callout-note .callout-toggle {
+  color: #777 !important;
+}
+
+/* ---------------------------------------------------
+   ABSTRACT : PRÉVIEW VISIBLE MÊME CALL OUT FERMÉ
+--------------------------------------------------- */
+
+/* Aperçu visible dans tous les cas */
+.abstract-preview {
+  color: #555;
+  font-size: 0.95em;
+  text-align: justify;
+  margin-bottom: 0.6em;
+}
+
+/* Partie complète seulement quand callout est OUVERT */
+.callout-note.callout-collapsed .abstract-full {
+  display: none;
+}
+.callout-note:not(.callout-collapsed) .abstract-full {
+  display: block;
+}
+
+/* Petits ajustements typographiques */
+.abstract-full p {
+  text-align: justify;
+  line-height: 1.45;
+}
+
+
+
