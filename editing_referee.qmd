@@ -11,8 +11,6 @@ editor: visual
 
 ![](images/dsef-03.jpeg){width="168"}
 
-In collaboration with the editor-in-chief, I develop and organize the "**DSEF Data Paper**" section within the journal. Based on my work and training experiences, a data paper model specific to the journal is proposed.
-
 ## Referee Activity
 
 -   Environment, Development and Sustainability ([**ENVI**](https://link.springer.com/journal/10668))
