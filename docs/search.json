@@ -165,14 +165,14 @@
     "href": "Teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "General Introduction to Economics (2024-2025) - First-year undergraduate students in Economics.\nMacroeconomics (2024-2025) - Second-year undergraduate students in Mathematics and computer science applied to human and social sciences (MIASHS).\nHistory of Economic Thought (2024-2025) - Third-year undergraduate students in Economics.\n\n\n\nIntroduction to Game Theory (2023-2024) - Third-year undergraduate students in Economics and Mathematics."
+    "text": "General Introduction to Economics — First-year undergraduate students in Economics (54h/semester).\nMacroeconomics — Second-year undergraduate students in MIASHS (12h/semester).\nHistory of Economic Thought — Third-year undergraduate students in Economics (30h/semester).\n\n\n\n\n\nIntroduction to Game Theory — Third-year undergraduate students in Economics and Mathematics (36h/semester)."
   },
   {
     "objectID": "Teaching.html#lectures",
     "href": "Teaching.html#lectures",
     "title": "Teaching",
     "section": "",
-    "text": "General Introduction to Economics (2024-2025) - First-year undergraduate students in Economics.\nMacroeconomics (2024-2025) - Second-year undergraduate students in Mathematics and computer science applied to human and social sciences (MIASHS).\nHistory of Economic Thought (2024-2025) - Third-year undergraduate students in Economics.\n\n\n\nIntroduction to Game Theory (2023-2024) - Third-year undergraduate students in Economics and Mathematics."
+    "text": "General Introduction to Economics — First-year undergraduate students in Economics (54h/semester).\nMacroeconomics — Second-year undergraduate students in MIASHS (12h/semester).\nHistory of Economic Thought — Third-year undergraduate students in Economics (30h/semester).\n\n\n\n\n\nIntroduction to Game Theory — Third-year undergraduate students in Economics and Mathematics (36h/semester)."
   },
   {
     "objectID": "Teaching.html#mentorship",
@@ -264,5 +264,19 @@
     "title": "Alexandre MATHIEU",
     "section": "Postdoctoral researcher",
     "text": "Postdoctoral researcher\nI hold a PhD in Economics from Paris-Saclay University and am currently a postdoctoral researcher in political economics at the Joint International Unit for Sustainability and Resilience – SOURCE (Paris-Saclay University, UVSQ, IRD). My research focuses on two sectors of the labour market: on the one hand, green jobs, which I study from a political economy perspective of development and figures, in relation to informality and just transitions in the economies of the Global South; on the other hand, scientific work, which I analyse through a political economy of science that focuses on scientific sovereignty, open science and inequalities in knowledge production.\nI use quantitative, qualitative and bibliometric methods, as well as open data sets, to analyse employment and sustainability dynamics, while placing my work within a broader reflection on the conditions for a more equitable and open sustainable transition between the Global North and South.\nMy empirical work includes research in Senegal and Madagascar on science inequalities, fieldwork in Madagascar on informal green jobs and socio-economic development, and developing projects on the resilience and labour-market dynamics of small island economies, particularly in the Pacific."
+  },
+  {
+    "objectID": "Teaching.html#supervision",
+    "href": "Teaching.html#supervision",
+    "title": "Teaching",
+    "section": "Supervision",
+    "text": "Supervision\n\nIndividual Supervision\n\n02/2026 – 06/2026 — Supervision of a second-year undergraduate internship (Université PSL, CPES – Sciences des données, arts et cultures) as part of the GTDID and the PSF CREONS program.\n2025–2026 — Mentorship within the international\nAjalala (Future Earth Pathways) program for young Francophone scholars in sustainability science (Africa, Canada, France).\n04/2024 – 06/2024 — Co-supervision of a Master’s 1 research internship within the GTDID.\n\n\n\nCollective Supervision\n\n2022–2025 — Supervision of tutored projects for the\nEEDS Master’s program,\nUniversité Paris-Saclay:\n\nCarbon footprint of the UMI SOURCE laboratory (using Labos1point5 tools).\nQuantitative and textometric analyses of COVID-19 literature in Small Island Economies (SIEs).\nDevelopment of a health vulnerability index within the POLIR program.\nParticipation in the supervision of the evaluation of Malagasy diaspora projects\nwithin the TADY project."
+  },
+  {
+    "objectID": "Teaching.html#training-activities",
+    "href": "Teaching.html#training-activities",
+    "title": "Teaching",
+    "section": "Training Activities",
+    "text": "Training Activities\n\n“T2VA” — Co-design of a training protocol.\nDevelopment of a pedagogical framework integrating open science as a tool for\nTravail, Valorisation, Vérification et Accompagnement (PSF CREONS), including\nin-person modules, videos and written materials.\nResources: https://umisource.github.io/psf_creons/modules.html\n“Outils fondamentaux de la science ouverte” — Course design (UFHB, Abidjan, 2024).\nDesign and teaching of a training program for PhD students, researchers\nand research support staff (PGD, institutional deposit, data papers\nand research data management best practices).\nResources: https://amathieuln.github.io/SO_SOURCE/\nGitHub: https://github.com/AMathieuLN/SO_SOURCE/tree/main"
   }
 ]

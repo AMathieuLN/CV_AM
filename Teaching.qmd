@@ -5,36 +5,52 @@ editor: visual
 
 ## Lectures
 
-### Université Panthéon-Sorbonne Paris 1
+### Université Panthéon-Sorbonne Paris 1 (**2024-2025**)
 
-**General Introduction to Economics (2024-2025)** - First-year undergraduate students in Economics.
+- **General Introduction to Economics** — First-year undergraduate students in Economics *(54h/semester)*.
+- **Macroeconomics** — Second-year undergraduate students in MIASHS *(12h/semester)*.
+- **History of Economic Thought** — Third-year undergraduate students in Economics *(30h/semester)*.
 
-**Macroeconomics (2024-2025)** - Second-year undergraduate students in Mathematics and computer science applied to human and social sciences (MIASHS).
+### Université Versailles Saint-Quentin-en-Yvelines - UVSQ (**2022-2024**)
 
-**History of Economic Thought (2024-2025)** - Third-year undergraduate students in Economics.
+- **Introduction to Game Theory** — Third-year undergraduate students in Economics and Mathematics *(36h/semester)*.
 
-### Université Versailles Saint-Quentin-en-Yvelines (UVSQ)
+## Supervision
 
-**Introduction to Game Theory (2023-2024)** - Third-year undergraduate students in Economics and Mathematics.
+### Individual Supervision
 
-## Mentorship
+- **02/2026 – 06/2026** — Supervision of a second-year undergraduate internship (Université PSL, [CPES – Sciences des données, arts et cultures](https://psl.eu/formation/cpes-psl-louis-le-grand)) as part of the [GTDID](https://umisource.github.io/GTDID/fr/) and the [PSF CREONS](https://umisource.github.io/psf_creons/) program.
 
-**Co-supervision of an internship (April 2024 - July 2024)** - Master's student in EEDS.
+- **2025–2026** — Mentorship within the international  
+  [Ajalala (Future Earth Pathways)](https://pathways.futureearth.org/programme-ajalala/) program for young Francophone scholars in sustainability science (Africa, Canada, France).
 
-**Tutored projects (2022-2024)** - Master's students in EEDS on various issues :
+- **04/2024 – 06/2024** — Co-supervision of a Master’s 1 research internship within the [GTDID](https://www.umi-source.uvsq.fr/gt-disparites-et-inegalites-doctorales).
 
--   \[3\] Creation of a **carbon footprint** for the UMI SOURCE laboratory, using tools developed by the **Labos1point5** collective.
+### Collective Supervision
 
--   \[2\] Quantitative analysis (bibliometrics, statistics and textometrics) of litterature on COVID-19 shock in small island economies (SIEs).
+- **2022–2025** — Supervision of tutored projects for the  
+  [EEDS Master’s program](https://www.universite-paris-saclay.fr/formation/master/economie-politique-et-institutions/m2-economie-et-evaluation-du-developpement-et-de-la-soutenabilite),  
+  Université Paris-Saclay:
 
--   \[1\] As part of the POLIR program financed by the Université Paris-Saclay to compile an index of vulnerability of small island economies to Covid-19.
+  - Carbon footprint of the UMI SOURCE laboratory (using **Labos1point5** tools).
+  - Quantitative and textometric analyses of COVID-19 literature in Small Island Economies (SIEs).
+  - Development of a health vulnerability index within the POLIR program.
+  - Participation in the supervision of the evaluation of Malagasy diaspora projects  
+    within the [TADY](https://www.umi-source.uvsq.fr/projet-tady-tantsoroka-ho-anny-diaspora) project.
 
-**Supervision of final bachelor's theses (2024)** - Groups of undergraduate students in MIASHS.
+## Training Activities
 
-## Courses
+- **“T2VA” — Co-design of a training protocol.**  
+  Development of a pedagogical framework integrating open science as a tool for  
+  *Travail, Valorisation, Vérification et Accompagnement* (PSF CREONS), including  
+  in-person modules, videos and written materials.  
+  Resources: <https://umisource.github.io/psf_creons/modules.html>
 
-\[2\] Co-design and development of the "T2VA" training protocol (integrating open science as a tool for Work, Valorization, Verification, and Support) for the PSF CREONS of UMI SOURCE, along with associated modules (in-person, video, and written materials). Detailed information and resources available on GitHub: <https://umisource.github.io/psf_creons/modules.html>
-
-\[1\] Design and development of the "Outils fondamentaux de la science ouverte : PGD, dépôt et data paper" course for PhD students, researchers and research support staff at the Université Félix-Houphoüet Boigny (Abidjan, Côte d'Ivoire), April 23-25, 2024. Course available on GitHub : <https://amathieuln.github.io/SO_SOURCE/> or <https://github.com/AMathieuLN/SO_SOURCE/tree/main>
+- **“Outils fondamentaux de la science ouverte” — Course design (UFHB, Abidjan, 2024).**  
+  Design and teaching of a training program for PhD students, researchers  
+  and research support staff (PGD, institutional deposit, data papers  
+  and research data management best practices).  
+  Resources: <https://amathieuln.github.io/SO_SOURCE/>  
+  GitHub: <https://github.com/AMathieuLN/SO_SOURCE/tree/main>
 
 ![](images/affiche_SO_avrilCI.png){width="232"}
