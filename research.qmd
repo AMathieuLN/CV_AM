@@ -52,49 +52,35 @@ souligne la nécessité de collaborations plus équitables et de capacités inst
 pour une science plus inclusive et durable.
 :::
 
-
 [2] **Mathieu**, A., Geronimi, V., Taranco, A. (2025). « COVID-19 et réponses insulaires :
 une analyse ouverte avec le jeu de données SIECRT », in Clément, M. et al. (Eds.)
-*Politiques de développement, acteurs et évaluations*. EME Louvain (à paraître).
-
-<button class="btn btn-sm btn-outline-secondary abstract-toggle"
-        data-bs-toggle="collapse"
-        data-bs-target="#abs2"
-        aria-expanded="false"
-        aria-controls="abs2">
-  Abstract
-</button>
+*Politiques de développement, acteurs et évaluations*. EME Louvain (à paraître).<span style="margin-right:1rem;"></span><button class="btn btn-sm btn-outline-secondary abstract-toggle"
+data-bs-toggle="collapse" data-bs-target="#abs2" aria-expanded="false" aria-controls="abs2">Abstract</button>
 
 ::: {#abs2 .collapse .abstract-block .mt-2}
-Chapitre présentant le jeu de données SIECRT, qui documente 8 mesures sanitaires prises par 26 petites
-économies insulaires non-indépendantes entre 2020 et 2021. Il montre que l’insularité favorise une forte
-capacité d’anticipation — les PEI adoptant leurs premières mesures avant l’apparition de cas —
-tandis que le statut politique influe marginalement sur les temporalités et les choix politiques. L’analyse
-souligne le rôle de la science ouverte dans la construction de données comparatives fiables et la nécessité
-d’adapter les politiques sanitaires aux spécificités structurelles des PEI.
+Chapitre présentant le jeu de données SIECRT, qui documente 8 mesures sanitaires prises par  
+26 petites économies insulaires non-indépendantes entre 2020 et 2021. Il montre que l’insularité  
+favorise une forte capacité d’anticipation — les PEI adoptant leurs premières mesures avant  
+l’apparition de cas — tandis que le statut politique influe marginalement sur les temporalités  
+et les choix politiques. L’analyse souligne le rôle de la science ouverte dans la construction  
+de données comparatives fiables et la nécessité d’adapter les politiques sanitaires aux  
+spécificités structurelles des PEI.
 :::
-
 
 [1] **Mathieu**, A., Rihi, Y. (2025). « Penser les transitions justes dans les Suds :
 enjeux et perspectives de quantification pour les politiques d’emplois verts », in Clément, M. et al. (Eds.)
-*Politiques de développement, acteurs et évaluations*. EME Louvain (à paraître).
-
-<button class="btn btn-sm btn-outline-secondary abstract-toggle"
-        data-bs-toggle="collapse"
-        data-bs-target="#abs1"
-        aria-expanded="false"
-        aria-controls="abs1">
-  Abstract
-</button>
+*Politiques de développement, acteurs et évaluations*. EME Louvain (à paraître).<span style="margin-right:1rem;"></span><button class="btn btn-sm btn-outline-secondary abstract-toggle"
+data-bs-toggle="collapse" data-bs-target="#abs1" aria-expanded="false" aria-controls="abs1">Abstract</button>
 
 ::: {#abs1 .collapse .abstract-block .mt-2}
-Chapitre analysant les limites conceptuelles et opérationnelles des emplois verts dans les Suds à partir
-d’une grille de lecture critique des transitions justes. Il met en évidence les tensions entre impératifs
-de développement, prédominance de l’informalité et cadre global de mesure, puis discute la pertinence
-du Just Transition Score. L’étude propose des pistes méthodologiques pour adapter les instruments de
-quantification aux réalités socio-économiques locales et intégrer pleinement l’emploi comme levier
-central de transitions justes.
+Chapitre analysant les limites conceptuelles et opérationnelles des emplois verts dans les Suds  
+à partir d’une grille de lecture critique des transitions justes. Il met en évidence les tensions  
+entre impératifs de développement, prédominance de l’informalité et cadre global de mesure,  
+puis discute la pertinence du *Just Transition Score*. L’étude propose des pistes méthodologiques  
+pour adapter les instruments de quantification aux réalités socio-économiques locales et intégrer  
+pleinement l’emploi comme levier central de transitions justes.
 :::
+
 
 ## Working papers
 
