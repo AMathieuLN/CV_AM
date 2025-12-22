@@ -84,13 +84,17 @@
   border-left: 3px solid #cccccc;
   padding: 0.6rem 0.9rem;
   margin-top: 0.2rem;
-  margin-bottom: 1.2rem;  /* 🔥 espace clair avant le texte/chapitre suivant */
+  margin-bottom: 1.2rem;
   background-color: #fafafa;
   font-size: 0.95rem;
+  text-align: justify;          /* ✅ justifie tout le texte du bloc */
+  text-justify: inter-word;
 }
 
 .abstract-block p {
-  margin-bottom: 0.4rem; /* légère respiration interne */
+  margin-bottom: 0.4rem;
+  text-align: justify;          /* ✅ au cas où un style plus spécifique s’applique aux <p> */
+  text-justify: inter-word;
 }
 
 /* Justifier tout le texte de contenu principal (paragraphes + listes) */
