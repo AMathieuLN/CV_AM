@@ -72,5 +72,21 @@
   line-height: 1.45;
 }
 
+.abstract-style .nav-tabs {
+  font-size: 0.85rem;
+  border-bottom: none;
+}
+
+.abstract-style .nav-tabs .nav-link {
+  color: #666;
+  padding: 0.2rem 0.6rem;
+}
+
+.abstract-style .nav-tabs .nav-link.active {
+  background-color: #f5f5f5;
+  border-color: #ddd;
+  color: #333;
+  font-weight: 600;
+}
 
 
