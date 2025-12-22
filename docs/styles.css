@@ -7,7 +7,7 @@
 }
 
 /* ---------------------------------------------------
-   CALLOUT SUBTIL & ÉLÉGANT POUR ABSTRACTS
+   CALLOUT SUBTIL & ÉLÉGANT POUR ABSTRACTS (SI TU LES UTILISES)
 --------------------------------------------------- */
 .callout-note {
   border: 1px solid #e0e0e0 !important;
@@ -25,7 +25,7 @@
   margin-bottom: 0.7em !important;
 }
 
-/* Titre "Abstract" plus discret */
+/* Titre "Abstract" plus discret dans les callouts */
 .callout-note h2,
 .callout-note h3 {
   font-size: 1.05em;
@@ -46,11 +46,7 @@
   color: #777 !important;
 }
 
-/* ---------------------------------------------------
-   ABSTRACT : PRÉVIEW VISIBLE MÊME CALL OUT FERMÉ
---------------------------------------------------- */
-
-/* Aperçu visible dans tous les cas */
+/* Aperçu éventuel (si utilisé) */
 .abstract-preview {
   color: #555;
   font-size: 0.95em;
@@ -66,13 +62,17 @@
   display: block;
 }
 
+/* ---------------------------------------------------
+   BOUTON "ABSTRACT" + BLOC COLLAPSIBLE
+--------------------------------------------------- */
+
 .abstract-toggle {
   font-size: 0.8rem;
   padding: 0.15rem 0.6rem;
-  border-radius: 999px; /* pastille douce */
+  border-radius: 999px;      /* pastille douce */
   display: inline-block;
   margin-top: 0.4rem;
-  margin-bottom: 0.3rem; /* espace entre le bouton et le bloc */
+  margin-bottom: 0.3rem;     /* espace entre le bouton et le bloc */
 }
 
 /* Couleur au survol – très légère */
@@ -84,26 +84,30 @@
   border-left: 3px solid #cccccc;
   padding: 0.6rem 0.9rem;
   margin-top: 0.2rem;
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.2rem;      /* espace avant le chapitre suivant */
   background-color: #fafafa;
   font-size: 0.95rem;
-  text-align: justify;          /* ✅ justifie tout le texte du bloc */
+  text-align: justify !important;
   text-justify: inter-word;
 }
 
-.abstract-block p {
+/* On force la justification pour les éléments internes
+   au cas où Bootstrap ou le thème impose text-align:left */
+.abstract-block p,
+.abstract-block li,
+.abstract-block div {
+  text-align: justify !important;
+  text-justify: inter-word;
   margin-bottom: 0.4rem;
-  text-align: justify;          /* ✅ au cas où un style plus spécifique s’applique aux <p> */
-  text-justify: inter-word;
 }
 
-/* Justifier tout le texte de contenu principal (paragraphes + listes) */
+/* ---------------------------------------------------
+   JUSTIFIER LE TEXTE DU CONTENU PRINCIPAL
+--------------------------------------------------- */
+
+/* Paragraphes et listes dans le contenu Quarto principal */
 main#quarto-document-content p,
 main#quarto-document-content li {
   text-align: justify !important;
   text-justify: inter-word;
 }
-
-
-
-
