@@ -71,8 +71,8 @@
   padding: 0.15rem 0.6rem;
   border-radius: 999px;      /* pastille douce */
   display: inline-block;
-  margin-top: 0.4rem;
-  margin-bottom: 0.3rem;     /* espace entre le bouton et le bloc */
+  margin-top: 0.1rem;        /* 🔼 très proche du texte de la réf */
+  margin-bottom: 0.9rem;     /* 🔽 bien séparé du titre suivant */
 }
 
 /* Couleur au survol – très légère */
