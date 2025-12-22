@@ -40,7 +40,7 @@ Randriantseheno, M., Pian, L. (2025). « Inégalités doctorales entre les Nords
 une première exploration depuis la littérature »,  
 in Meyer, J.-B., Benguerna, M., Lounaci, A. (Eds.) *Études doctorales africaines : Diversité
 de situations et enjeux communs*. Éditions IRD & African Minds.  
-ISBN: [978-2-7099-3080-2](https://www.editions.ird.fr/produit/747/9782709930802/etudes-doctorales-africaines)&nbsp;&nbsp;<button class="btn btn-sm btn-outline-secondary abstract-toggle"
+ISBN: [978-2-7099-3080-2](https://www.editions.ird.fr/produit/747/9782709930802/etudes-doctorales-africaines)<span style="margin-right:1rem;"></span><button class="btn btn-sm btn-outline-secondary abstract-toggle"
 data-bs-toggle="collapse" data-bs-target="#abs3" aria-expanded="false" aria-controls="abs3">Abstract</button>
 
 ::: {#abs3 .collapse .abstract-block .mt-2}
