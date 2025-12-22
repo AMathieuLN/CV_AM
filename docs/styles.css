@@ -101,6 +101,13 @@
   margin-bottom: 0.4rem;
 }
 
+/* Paragraphe qui contient le bouton "Abstract" */
+p:has(> button.abstract-toggle) {
+  margin-top: 0.15rem !important;   /* très proche du texte de la référence */
+  margin-bottom: 1.1rem !important; /* bien séparé du chapitre suivant    */
+}
+
+
 /* ---------------------------------------------------
    JUSTIFIER LE TEXTE DU CONTENU PRINCIPAL
 --------------------------------------------------- */
