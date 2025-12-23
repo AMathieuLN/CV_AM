@@ -122,6 +122,34 @@ p:has(+ button.abstract-toggle) {
 }
 
 /* ---------------------------------------------------
+   FLÈCHES DYNAMIQUES ▶ / ▼ POUR LES PROGRAMMES
+   (méthode robuste, indépendante du markup Quarto)
+--------------------------------------------------- */
+
+/* Style du header : on prépare l'espace pour la flèche */
+.callout-note .callout-header {
+  position: relative;
+  cursor: pointer;   /* Indique que c’est cliquable */
+}
+
+/* Flèche par défaut (callout replié = ▶) */
+.callout-note .callout-header::after {
+  content: "▶";
+  position: absolute;
+  right: 0.4rem;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1rem;
+  color: #666;
+}
+
+/* Callout ouvert → flèche ▼ */
+.callout-note:not(.callout-collapsed) .callout-header::after {
+  content: "▼";
+}
+
+
+/* ---------------------------------------------------
    JUSTIFIER LE TEXTE DU CONTENU PRINCIPAL
 --------------------------------------------------- */
 
