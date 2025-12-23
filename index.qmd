@@ -6,7 +6,7 @@ editor: visual
 +----------------------------------------+----------------------------------------------------------------------+
 | ![Abidjan, 2024](images/photo_cv3.png) | 47 bd. Vauban 78047 Guyancourt Cedex                                 |
 |                                        |                                                                      |
-|                                        | Email: [alexmathieu.ln\@gmail.com](mailto:alexmathieu.ln@gmail.com)  |
+|                                        | Email: alexandre.mathieu@universite-paris-saclay.fr                  |
 |                                        |                                                                      |
 |                                        | [ORCID](https://orcid.org/0009-0009-6720-8731)                       |
 |                                        |                                                                      |
