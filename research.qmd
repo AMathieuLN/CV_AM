@@ -106,8 +106,7 @@ SIECRT is a new dataset focused on public health measures adopted by 26 small af
 
 ## Other publications
 
-[3] Goujon, M., Lucic, N., **Mathieu**, A. (2023).  
-[Veille Internet : petites économies insulaires, chocs et résilience](https://www-cairn-info.ezproxy.universite-paris-saclay.fr/revue-mondes-en-developpement-2023-4-page-179.htm). *Mondes en développement*, 204, 179–186.<span style="margin-right:1rem;"></span><button class="btn btn-sm btn-outline-secondary abstract-toggle" data-bs-toggle="collapse" data-bs-target="#absMD3" aria-expanded="false" aria-controls="absMD3">Abstract</button>
+[3] Goujon, M., Lucic, N., **Mathieu**, A. (2023). [Veille Internet : petites économies insulaires, chocs et résilience](https://www-cairn-info.ezproxy.universite-paris-saclay.fr/revue-mondes-en-developpement-2023-4-page-179.htm). *Mondes en développement*, 204, 179–186.<span style="margin-right:1rem;"></span><button class="btn btn-sm btn-outline-secondary abstract-toggle" data-bs-toggle="collapse" data-bs-target="#absMD3" aria-expanded="false" aria-controls="absMD3">Abstract</button>
 
 ::: {#absMD3 .collapse .abstract-block .mt-2}
 This Internet monitoring identifies and describes the main databases useful for studying small island and coastal economies, with an emphasis on those covering a wide range of socio-economic and environmental areas. It presents international, regional and local databases, as well as resources dedicated to the vulnerability of SIDS, historical data, the Covid-19 pandemic and climate change.
@@ -180,7 +179,7 @@ In december 2024, qualitative research on the mobilization of local resources by
 
 - **Coming 2026 (3 months)** - Support for component 6 of the TADY project on the socio-economic impact of diaspora initiatives; roll-out of the first GTDID survey in Madagascar.
 
-- **10/2025 (1 month)** — Qualitative survey conducted as part of the [GTDID](https://umisource.github.io/GTDID/fr/) on doctoral research conditions and the emergence of open science at Cheikh Anta Diop University, Dakar, Senegal.
+- **10/2025 (1 month)** - Qualitative survey conducted as part of the [GTDID](https://umisource.github.io/GTDID/fr/) on doctoral research conditions and the emergence of open science at Cheikh Anta Diop University, Dakar, Senegal.
 
-- **12/2024 (1 month)** — Qualitative survey on the mobilisation of local resources by local authorities in Madagascar — Sponsor: Cultural Cooperation and Action Service (SCAC), French Embassy in Madagascar (1 month).
+- **12/2024 (1 month)** - Qualitative survey on the mobilisation of local resources by local authorities in Madagascar — Sponsor: Cultural Cooperation and Action Service (SCAC), French Embassy in Madagascar (1 month).
 
