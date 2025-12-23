@@ -3,7 +3,7 @@ title: ""
 editor: visual
 ---
 
-# Research
+# Publications
 
 ## Publications in Peer-reviewed Journals
 
@@ -171,3 +171,16 @@ I took part in this program as part of my M2 internship, which resulted in sever
 - **Mathieu**, A. (2023). SIECRT - Small Island Economies COVID-19 Response Tracker. *Recherche Data Gouv*, V1. <https://doi.org/10.57745/I69YFF>
 
 :::
+
+# Consultancy
+
+In december 2024, qualitative research on the mobilization of local resources by local authorities in Madagascar - Commissioner: Ministère de l'Europe et des Affaires étrangères (France).
+
+# Fieldworks
+
+- **3 months, coming 2026** - Appui au volet 6 du projet TADY sur l’impact socio-économique des initiatives de la diaspora ; déploiement de la première enquête du GTDID à Madagascar.
+
+- **10/2025** — Qualitative survey conducted as part of the [GTDID](https://umisource.github.io/GTDID/fr/) on doctoral research conditions and the emergence of open science at Cheikh Anta Diop University, Dakar, Senegal (1 month).
+
+- **12/2024** — Qualitative survey on the mobilisation of local resources by local authorities in Madagascar — Sponsor: Cultural Cooperation and Action Service (SCAC), French Embassy in Madagascar (1 month).
+
