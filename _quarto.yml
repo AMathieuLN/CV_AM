@@ -21,8 +21,6 @@ website:
         text: Teaching
       - href: journalism.qmd
         text: Science Popularization
-      - href: CV.qmd
-        text: CV
 
 format:
   html:
