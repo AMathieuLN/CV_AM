@@ -141,6 +141,7 @@ Led by a transdisciplinary team of economists, geographers, sociologists and phi
 
 ::: {.callout-note collapse="true"}
 ## Working Group on Doctoral Disparities and Inequalities / Groupe de travail sur les Disparités et Inégalités Doctorales ([GTDID](https://umisource.github.io/GTDID/en/))
+Website: [https://umisource.github.io/GTDID/en/](https://umisource.github.io/GTDID/en/)
 
 In collaboration with doctoral students, researchers and research support staff, I took part in the formation of the GTDID, focusing on inequalities in doctoral research between North and South regions. We are conducting an analysis of doctoral conditions, highlighting the challenges of cultural and academic diversity, and carrying out an exhaustive review of the literature on doctoral disparities between North and South. The study focuses on the causes of these inequalities, such as funding, access to resources and working conditions, and their impact on developing research. A groundbreaking comparative empirical study is being organized, using mixed methods. This group is part of the IRD Working Group on Inequalities, with the participation of researchers and doctoral students.
 
