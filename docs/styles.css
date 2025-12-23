@@ -114,24 +114,27 @@ p:has(+ button.abstract-toggle) {
   letter-spacing: 0.3px;           /* Très léger raffinement typographique */
 }
 
-/* Créer un compteur pour numéroter les programmes */
-#quarto-document-content {
-  counter-reset: program-counter;
+/* On neutralise l’icône par défaut du toggle */
+.callout-note .callout-toggle {
+  color: transparent !important;   /* cache l’icône SVG de base */
+  border: none;
+  box-shadow: none;
 }
 
-/* Incrémenter le compteur pour chaque programme */
-.callout-note {
-  counter-increment: program-counter;
+/* On remplace par une flèche ▶ quand le callout est replié */
+.callout-note .callout-toggle::before {
+  content: "▶";
+  color: #666;
+  font-size: 0.9rem;
+  display: inline-block;
+  transform: translateY(1px);
 }
 
-/* Ajouter le numéro devant le titre */
-.callout-note > .callout-header h2::before,
-.callout-note > .callout-header h3::before {
-  content: counter(program-counter) ". ";
-  font-weight: 700;
-  margin-right: 0.35rem;
-  color: #555;
+/* Quand le callout est OUVERT, on affiche ▼ à la place */
+.callout-note:not(.callout-collapsed) .callout-toggle::before {
+  content: "▼";
 }
+
 
 /* ---------------------------------------------------
    JUSTIFIER LE TEXTE DU CONTENU PRINCIPAL
