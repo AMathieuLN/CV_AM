@@ -7,7 +7,7 @@
 }
 
 /* ---------------------------------------------------
-   CALLOUT SUBTIL & ÉLÉGANT POUR ABSTRACTS (SI TU LES UTILISES)
+   CALLOUT SUBTIL & ÉLÉGANT POUR ABSTRACTS / PROGRAMMES
 --------------------------------------------------- */
 .callout-note {
   border: 1px solid #e0e0e0 !important;
@@ -23,14 +23,14 @@
   border-bottom: 1px solid #e9e9e9 !important;
   padding-bottom: 0.4em !important;
   margin-bottom: 0.7em !important;
+  align-items: center;
 }
 
-/* Titre "Abstract" plus discret dans les callouts */
-.callout-note h2,
-.callout-note h3 {
-  font-size: 1.05em;
-  margin: 0;
-  font-weight: 600;
+/* TITRE des programmes : Quarto utilise .callout-title, pas h2/h3 */
+.callout-note .callout-title {
+  font-size: 1.35rem;      /* plus gros */
+  font-weight: 700;
+  letter-spacing: 0.3px;
   color: #444;
 }
 
@@ -41,29 +41,44 @@
   margin-bottom: 0.4em;
 }
 
-/* Triangle du collapsible, plus subtil */
+/* ---------------------------------------------------
+   ICÔNE COLLAPSIBLE ▶ / ▼ POUR LES PROGRAMMES
+--------------------------------------------------- */
+
+/* On neutralise l’icône par défaut à l'intérieur du bouton */
+.callout-note .callout-toggle-icon {
+  display: none !important;
+}
+
+/* Style général du bouton toggle */
 .callout-note .callout-toggle {
-  color: #777 !important;
+  border: none;
+  background: transparent;
+  box-shadow: none;
+  padding: 0;
+  width: 1.4rem;
+  height: 1.4rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
-/* Aperçu éventuel (si utilisé) */
-.abstract-preview {
-  color: #555;
-  font-size: 0.95em;
-  text-align: justify;
-  margin-bottom: 0.6em;
+/* Flèche par défaut quand le callout est replié */
+.callout-note .callout-toggle::before {
+  content: "▶";
+  color: #666;
+  font-size: 0.9rem;
+  display: inline-block;
+  transform: translateY(1px);
 }
 
-/* Partie complète seulement quand callout est OUVERT */
-.callout-note.callout-collapsed .abstract-full {
-  display: none;
-}
-.callout-note:not(.callout-collapsed) .abstract-full {
-  display: block;
+/* Flèche quand le callout est OUVERT (classe .callout-collapsed disparaît) */
+.callout-note:not(.callout-collapsed) .callout-toggle::before {
+  content: "▼";
 }
 
 /* ---------------------------------------------------
-   BOUTON "ABSTRACT" + BLOC COLLAPSIBLE
+   ABSTRACT : BOUTON + BLOC COLLAPSIBLE (PUBLICATIONS)
 --------------------------------------------------- */
 
 .abstract-toggle {
@@ -105,36 +120,6 @@
 p:has(+ button.abstract-toggle) {
   margin-bottom: 0.15rem !important;  /* rapproche le bouton de la référence */
 }
-
-/* Agrandir les titres des programmes */
-.callout-note > .callout-header h2,
-.callout-note > .callout-header h3 {
-  font-size: 1.35rem !important;   /* Taille élégante, plus grande */
-  font-weight: 700 !important;     /* Plus gras */
-  letter-spacing: 0.3px;           /* Très léger raffinement typographique */
-}
-
-/* On neutralise l’icône par défaut du toggle */
-.callout-note .callout-toggle {
-  color: transparent !important;   /* cache l’icône SVG de base */
-  border: none;
-  box-shadow: none;
-}
-
-/* On remplace par une flèche ▶ quand le callout est replié */
-.callout-note .callout-toggle::before {
-  content: "▶";
-  color: #666;
-  font-size: 0.9rem;
-  display: inline-block;
-  transform: translateY(1px);
-}
-
-/* Quand le callout est OUVERT, on affiche ▼ à la place */
-.callout-note:not(.callout-collapsed) .callout-toggle::before {
-  content: "▼";
-}
-
 
 /* ---------------------------------------------------
    JUSTIFIER LE TEXTE DU CONTENU PRINCIPAL
