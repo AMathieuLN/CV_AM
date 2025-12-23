@@ -26,7 +26,7 @@
   align-items: center;
 }
 
-/* TITRE des programmes : Quarto utilise .callout-title, pas h2/h3 */
+/* TITRE des programmes : Quarto utilise .callout-title */
 .callout-note .callout-title {
   font-size: 1.35rem;      /* plus gros */
   font-weight: 700;
@@ -42,39 +42,31 @@
 }
 
 /* ---------------------------------------------------
-   ICÔNE COLLAPSIBLE ▶ / ▼ POUR LES PROGRAMMES
+   FLÈCHES DYNAMIQUES ▶ / ▼ POUR LES PROGRAMMES
+   (version robuste)
 --------------------------------------------------- */
 
-/* On neutralise l’icône par défaut à l'intérieur du bouton */
-.callout-note .callout-toggle-icon {
-  display: none !important;
+/* On travaille sur TOUS les callouts, pas seulement note */
+.callout .callout-header {
+  position: relative;
+  cursor: pointer;   /* indique que le header est cliquable */
 }
 
-/* Style général du bouton toggle */
-.callout-note .callout-toggle {
-  border: none;
-  background: transparent;
-  box-shadow: none;
-  padding: 0;
-  width: 1.4rem;
-  height: 1.4rem;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-}
-
-/* Flèche par défaut quand le callout est replié */
-.callout-note .callout-toggle::before {
-  content: "▶";
+/* Flèche par défaut (callout replié = ▶) */
+.callout .callout-header::after {
+  content: "▶" !important;
+  position: absolute;
+  right: 0.4rem;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1rem;
   color: #666;
-  font-size: 0.9rem;
-  display: inline-block;
-  transform: translateY(1px);
 }
 
-/* Flèche quand le callout est OUVERT (classe .callout-collapsed disparaît) */
-.callout-note:not(.callout-collapsed) .callout-toggle::before {
-  content: "▼";
+/* Callout OUVERT → flèche ▼
+   Quarto retire la classe .callout-collapsed quand c'est ouvert */
+.callout:not(.callout-collapsed) .callout-header::after {
+  content: "▼" !important;
 }
 
 /* ---------------------------------------------------
@@ -120,34 +112,6 @@
 p:has(+ button.abstract-toggle) {
   margin-bottom: 0.15rem !important;  /* rapproche le bouton de la référence */
 }
-
-/* ---------------------------------------------------
-   FLÈCHES DYNAMIQUES ▶ / ▼ POUR LES PROGRAMMES
-   (méthode robuste, indépendante du markup Quarto)
---------------------------------------------------- */
-
-/* Style du header : on prépare l'espace pour la flèche */
-.callout-note .callout-header {
-  position: relative;
-  cursor: pointer;   /* Indique que c’est cliquable */
-}
-
-/* Flèche par défaut (callout replié = ▶) */
-.callout-note .callout-header::after {
-  content: "▶";
-  position: absolute;
-  right: 0.4rem;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 1rem;
-  color: #666;
-}
-
-/* Callout ouvert → flèche ▼ */
-.callout-note:not(.callout-collapsed) .callout-header::after {
-  content: "▼";
-}
-
 
 /* ---------------------------------------------------
    JUSTIFIER LE TEXTE DU CONTENU PRINCIPAL
