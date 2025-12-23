@@ -44,19 +44,13 @@ My empirical work includes research in **Senegal** and **Madagascar** on science
 -   *2016 - 2019:* Bachelor's in [Philosophy]{.underline} at **Sorbonne Université**
 -   *2015 - 2018:* Bachelor's in [Sociology]{.underline} at the **Université Versailles-Saint-Quentin-en-Yvelines**
 
-## Research Areas
-
-\[1\] Development Economics; Socio-economics; Green Economy; Ecological Economics; Sustainability; Resilience
-
-\[2\] Global South; Developing Countries; Marginalized Economies; Sub-Saharan Africa (SSA); Small Island Economies (SIEs)
-
-\[3\] Research Inequalities; Doctoral Inequalities
-
-\[4\] Open Science; Sustainability Science
-
 ## Competences
 
-*Statistical and Econometric Tools:* R, Stata, Excel, GAMS.
+*Statistical and Econometric Tools:* R, Stata, Excel. 
+
+*Qualitative survey and tools:* Semi-structured interviews, field observations, qualitative coding, Kobocollect, transcription and thematic analysis, protocol design, fieldwork logistics and respondent management.
+
+*Versionning:* Github. 
 
 *Bibliographic and Bibliometric Tools:* Zotero, Quarto, LaTeX, Bibliometrix, VOSViewer, Microsoft Office.
 
