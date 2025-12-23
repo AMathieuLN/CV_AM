@@ -106,6 +106,33 @@ p:has(+ button.abstract-toggle) {
   margin-bottom: 0.15rem !important;  /* rapproche le bouton de la référence */
 }
 
+/* Agrandir les titres des programmes */
+.callout-note > .callout-header h2,
+.callout-note > .callout-header h3 {
+  font-size: 1.35rem !important;   /* Taille élégante, plus grande */
+  font-weight: 700 !important;     /* Plus gras */
+  letter-spacing: 0.3px;           /* Très léger raffinement typographique */
+}
+
+/* Créer un compteur pour numéroter les programmes */
+#quarto-document-content {
+  counter-reset: program-counter;
+}
+
+/* Incrémenter le compteur pour chaque programme */
+.callout-note {
+  counter-increment: program-counter;
+}
+
+/* Ajouter le numéro devant le titre */
+.callout-note > .callout-header h2::before,
+.callout-note > .callout-header h3::before {
+  content: counter(program-counter) ". ";
+  font-weight: 700;
+  margin-right: 0.35rem;
+  color: #555;
+}
+
 /* ---------------------------------------------------
    JUSTIFIER LE TEXTE DU CONTENU PRINCIPAL
 --------------------------------------------------- */

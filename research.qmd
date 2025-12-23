@@ -129,7 +129,7 @@ This closing speech reviews the main bridges that emerged during the ATM 2023 co
 # Research program
 
 ::: {.callout-note collapse="true"}
-## Working Group on Doctoral Disparities and Inequalities / Groupe de travail sur les Disparités et Inégalités Doctorales ([GTDID](https://www.umi-source.uvsq.fr/gt-disparites-et-inegalites-doctorales))
+## Working Group on Doctoral Disparities and Inequalities / Groupe de travail sur les Disparités et Inégalités Doctorales ([GTDID](https://umisource.github.io/GTDID/en/))
 
 In collaboration with doctoral students, researchers and research support staff, I took part in the formation of the GTDID, focusing on inequalities in doctoral research between North and South regions. We are conducting an analysis of doctoral conditions, highlighting the challenges of cultural and academic diversity, and carrying out an exhaustive review of the literature on doctoral disparities between North and South. The study focuses on the causes of these inequalities, such as funding, access to resources and working conditions, and their impact on developing research. A groundbreaking comparative empirical study is being organized, using mixed methods. This group is part of the IRD Working Group on Inequalities, with the participation of researchers and doctoral students.
 
@@ -158,5 +158,4 @@ I took part in this program as part of my M2 internship, which resulted in sever
 
 - **Mathieu**, A. (2023). SIECRT - Small Island Economies COVID-19 Response Tracker. *Recherche Data Gouv*, V1. <https://doi.org/10.57745/I69YFF>
 
-  SIECRT dataset is deposited in the Recherche Data Gouv data warehouse. This dataset focuses on public health measures taken by 26 small affiliated island economies in their fight against the Covid-19 pandemic, from January 2020 to April 2021, with exceptions up to October 2021. Unique in its kind, it focuses on affiliated (or non-independent) island economies, usually overlooked in other databases, and includes eight daily-coded public health measures, such as restrictions on gatherings, educational establishments and international travel.
 :::
