@@ -6,7 +6,7 @@ editor: visual
 +----------------------------------------+----------------------------------------------------------------------+
 | ![Abidjan, 2024](images/photo_cv3.png) | 47 bd. Vauban 78047 Guyancourt Cedex                                 |
 |                                        |                                                                      |
-|                                        | Email: alexandre.mathieu@universite-paris-saclay.fr                  |
+|                                        | Email: alexandre.mathieu\@uvsq.fr                                    |
 |                                        |                                                                      |
 |                                        | [ORCID](https://orcid.org/0009-0009-6720-8731)                       |
 |                                        |                                                                      |
@@ -27,15 +27,14 @@ My empirical work includes research in **Senegal** and **Madagascar** on science
 
 ## Academic responsibilities
 
-- *Coming in 2026:* Member of the Scientific Committee of the Paris-Saclay Open University Press (POPS).
-- *Since 2024:* Associate Editor of **Development and Sustainability in Economics and Finance ([DSEF](https://www.sciencedirect.com/journal/development-and-sustainability-in-economics-and-finance/))**.
-- *Since 2024:* Curator and administrator of scientific data for UMI SOURCE and the [**DataSuds**](https://dataverse.ird.fr/dataverse/umi_source/) platform of the **French National Research Institute for Sustainable Development** (**IRD**).
+-   *Coming in 2026:* Member of the Scientific Committee of the Paris-Saclay Open University Press (POPS).
+-   *Since 2024:* Associate Editor of **Development and Sustainability in Economics and Finance ([DSEF](https://www.sciencedirect.com/journal/development-and-sustainability-in-economics-and-finance/))**.
+-   *Since 2024:* Curator and administrator of scientific data for UMI SOURCE and the [**DataSuds**](https://dataverse.ird.fr/dataverse/umi_source/) platform of the **French National Research Institute for Sustainable Development** (**IRD**).
 
 **Past responsibilities**
 
-- *2022–2024:* Doctoral students’ representative at the **Doctoral School of Law, Economics, Management (DEM), University of Paris-Saclay**.
-- *2022–2024:* Doctoral students’ representative at **UMI SOURCE**.
-
+-   *2022–2024:* Doctoral students’ representative at the **Doctoral School of Law, Economics, Management (DEM), University of Paris-Saclay**.
+-   *2022–2024:* Doctoral students’ representative at **UMI SOURCE**.
 
 ## Education and Qualifications
 
@@ -46,11 +45,11 @@ My empirical work includes research in **Senegal** and **Madagascar** on science
 
 ## Competences
 
-*Statistical and Econometric Tools:* R, Stata, Excel. 
+*Statistical and Econometric Tools:* R, Stata, Excel.
 
 *Qualitative survey and tools:* Semi-structured interviews, field observations, qualitative coding, Kobocollect, transcription and thematic analysis, protocol design, fieldwork logistics and respondent management.
 
-*Versionning:* Github. 
+*Versionning:* Github.
 
 *Bibliographic and Bibliometric Tools:* Zotero, Quarto, LaTeX, Bibliometrix, VOSViewer, Microsoft Office.
 
