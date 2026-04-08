@@ -79,6 +79,12 @@ Current measures of job greening remain focused on the formal economies of the N
 
 ## Datasets
 
+\[3\] Faye, D. B. Madioune, E.M. Nguirane, M.M. Randrianandrasana, R.A. **Mathieu**, A. Pian, L. Rihi, Y. Santini, S. (2026). *DWISE - Doctoral Work and Inequalities in Scientific Ecosystems*. DataSuds, V1. <https://doi.org/10.23708/ZRDYJU><button class="btn btn-sm btn-outline-secondary abstract-toggle" data-bs-toggle="collapse" data-bs-target="#absDWISE3" aria-expanded="false" aria-controls="absDWISE3">Abstract</button>
+
+::: {#absDWISE3 .collapse .abstract-block .mt-2}
+The DWISE dataset documents the structural endowments shaping doctoral work, with a focus on objective inequalities in resources, institutional support, and research conditions. It is based on an original survey conducted among 98 doctoral candidates from two doctoral schools at Cheikh Anta Diop University (UCAD) in Dakar, Senegal, and forms part of the research activities of the GTDID (Working Group on Doctoral Disparities and Inequalities). Data were collected in two waves, in May and October 2025. The dataset covers key dimensions of doctoral structural endowments, including funding conditions, working time allocation, supervision, institutional integration, access to research infrastructures, scientific networks, mobility opportunities, and to open science tools. These data enable empirical analyses of how unequal structural conditions shape doctoral trajectories and the capacity to conduct scientific work, as well as an examination of open science as a potential compensatory mechanism for Global North/South research inequalities. DWISE is part of a comparative and extensible framework and is intended to be expanded to research institutions in additional countries.
+:::
+
 \[2\] **Mathieu**, A. (2023). *BDGJ – Bibliometric Dataset on Green Jobs*. *Recherche Data Gouv*, V1. <https://doi.org/10.57745/4LOIZB><button class="btn btn-sm btn-outline-secondary abstract-toggle" data-bs-toggle="collapse" data-bs-target="#absBDGJ2" aria-expanded="false" aria-controls="absBDGJ2">Abstract</button>
 
 ::: {#absBDGJ2 .collapse .abstract-block .mt-2}
@@ -175,8 +181,8 @@ In december 2024, qualitative research on the mobilization of local resources by
 
 # Fieldworks
 
--   **Coming 2026 (3 months)** - Support for component 6 of the TADY project on the socio-economic impact of diaspora initiatives; roll-out of the first GTDID survey in Madagascar.
+-   **03/2026 - 07/2026** **(Madagascar)** - Roll-out of the first GTDID survey in Madagascar; Support for component 6 of the TADY project on the socio-economic impact of diaspora initiatives.
 
--   **10/2025** - Qualitative survey conducted as part of the [GTDID](https://umisource.github.io/GTDID/fr/) on doctoral research conditions and the emergence of open science at Cheikh Anta Diop University, Dakar, Senegal.
+-   **10/2025** **(Senegal)** - Qualitative survey conducted as part of the [GTDID](https://umisource.github.io/GTDID/fr/) on doctoral research conditions and the emergence of open science at Cheikh Anta Diop University, Dakar, Senegal.
 
--   **12/2024** - Qualitative survey on the mobilisation of local resources by local authorities in Madagascar - Sponsor: Cultural Cooperation and Action Service (SCAC), French Embassy in Madagascar (1 month).
+-   **12/2024 (Madagascar)** - Qualitative survey on the mobilisation of local resources by local authorities in Madagascar - Sponsor: Cultural Cooperation and Action Service (SCAC), French Embassy in Madagascar (1 month).
