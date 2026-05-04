@@ -62,20 +62,18 @@ Presentation of the original SIECRT dataset, coding eight health measures in 26 
 
 ## Work in progress
 
-\[3\] *"The role of jobs with high greening potential in macroeconomic performance and sustainability"*, *Work in progress*.<button class="btn btn-sm btn-outline-secondary abstract-toggle"
+\[2\] *"The role of jobs with high greening potential in macroeconomic performance and sustainability"*, *Work in progress*.<button class="btn btn-sm btn-outline-secondary abstract-toggle"
 data-bs-toggle="collapse" data-bs-target="#absWP3" aria-expanded="false" aria-controls="absWP3">Abstract</button>
 
 ::: {#absWP3 .collapse .abstract-block .mt-2}
 While the concept of ‘green’ jobs is gaining ground, its macroeconomic effects remain poorly studied, particularly in economies with high levels of informality. This study assesses the impact of jobs with high greening potential (HGPJ) on growth, resilience to cyclical downturns and intergenerational sustainability (adjusted real savings). Using a panel covering economies in the North and South, we combine fixed effects models and two-stage IV estimation using a synthetic geographical instrument (geo_index) to identify the causal effect of the share of GPJ. The results reveal a causal growth dividend: an exogenous increase in HGPJ stimulates GDP and mitigates both the frequency and depth of prolonged downturns. Informality, as measured by the self-employment rate, does not significantly alter these effects. With regard to sustainability, quadratic estimates show a U-shaped relationship: below a threshold of 30–35% of EFPV, transition costs reduce net savings, while above this threshold there appears to be a real green benefit. These results shed light on the institutional and social conditions necessary to transform the greening of employment into a sustainable driver of growth and resilience.
 :::
 
-\[2\] *"Greening jobs in the Global South: a critical and sectoral analysis of the potential for environmental transition"*, *Working paper*.<button class="btn btn-sm btn-outline-secondary abstract-toggle"data-bs-toggle="collapse" data-bs-target="#absWP2" aria-expanded="false" aria-controls="absWP2">Abstract</button>
+\[1\] *"Greening jobs in the Global South: a critical and sectoral analysis of the potential for environmental transition"*, *Working paper*.<button class="btn btn-sm btn-outline-secondary abstract-toggle"data-bs-toggle="collapse" data-bs-target="#absWP2" aria-expanded="false" aria-controls="absWP2">Abstract</button>
 
 ::: {#absWP2 .collapse .abstract-block .mt-2}
 Current measures of job greening remain focused on the formal economies of the North, neglecting the massive informality of the economies of the South. This working paper proposes a new global mapping of activities with high greening potential. By cross-referencing NACE–ISIC with the European Green Taxonomy, we have constructed SAGE, a harmonised database derived from ILOSTAT microdata, disaggregated by gender, age, education, establishment size and formal/informal status. We introduce the concept of jobs with high greening potential (JHP), which is better suited to the contexts covered by SAGE than the category of 'green jobs'. Our results show a clear gradient: high-income countries have a higher concentration of HGPJ, while low-income economies lag behind and remain highly heterogeneous. Higher education graduates have much greater access to HGPJ, while young people and informal workers are largely excluded. Sectorally, water, waste and renewable energy services dominate in advanced countries, compared to agriculture and extraction in Southern economies. These results highlight the need to adapt greening measurement frameworks to informal economies in order to support a truly inclusive transition.
 :::
-
-\[1\] "Vers une 'transition juste de la recherche'", *Work in progress*.
 
 ## Datasets
 
