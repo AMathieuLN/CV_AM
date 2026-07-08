@@ -135,7 +135,7 @@ This closing speech reviews the main bridges that emerged during the ATM 2023 co
 # Research program
 
 ::: {.callout-note collapse="true"}
-## Towards a Community for Research, Equitable, and Open North-South relations / Vers une communauté de recherche équitable et ouverte Nords-Suds (CREONS)
+## CREONS project - Towards a Community for Research, Equitable, and Open North-South relations / Vers une communauté de recherche équitable et ouverte Nords-Suds
 
 Website: <https://umisource.github.io/GTDID/en/>
 
@@ -163,7 +163,7 @@ Led by a transdisciplinary team of economists, geographers, sociologists and phi
 :::
 
 ::: {.callout-note collapse="true"}
-## POLICIES and Institutions in small island economies (SIE) for better resilience in response to the COVID crisis (POLIR)
+## POLIR program - POLICIES and Institutions in small island economies (SIE) for better resilience in response to the COVID crisis
 
 Directed by V. Geronimi for UMI SOURCE (ex-CEMOTEV) (France), LARJE (New Caledonia), CERDI (France), LC2S (Martinique), CEMOI (Réunion), ATOM (Guadeloupe), Massey University (New Zealand), LAVUE (Mayotte), PRINTEMPS (France). The POLIR project aims to analyse the role of policies and institutions in the socio-economic resilience of SIE in the face of the COVID 19 pandemic. The project thus aims to assess the capacity of SIE to regain, renew or reinvent their economic activities, depending on policies, institutions and development models in the face of the pandemic.
 
