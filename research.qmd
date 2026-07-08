@@ -5,6 +5,25 @@ editor: visual
 
 # Publications
 
+## Work in progress
+
+\[4\] A Global Bayesian Hierchichal Meta-Analysis of the Value of Deep-Sea Ecosystem Services. *With Benjamin Blanc, Armand Taranco, Vincent Geronimi*. 
+
+\[3\] DEEPVAL: A Global Dataset of Monetary Values for Deep-Sea Ecosystem Services. *With Benjamin Blanc, Laurence Goury*. 
+
+\[2\] Pouvons-nous tous participer à la science ouverte ? Dotations structurelles et capacités de recherche dans les parcours doctoraux sénégalais. *With Yanis Rihi, Loïc Pian, Mansour Nguirane, et al.*<button class="btn btn-sm btn-outline-secondary abstract-toggle"data-bs-toggle="collapse" data-bs-target="#absWP2" aria-expanded="false" aria-controls="absWP2">Abstract</button> 
+
+::: {#absWP2 .collapse .abstract-block .mt-2}
+
+Based on an original survey of 98 doctoral students at Cheikh Anta Diop University, this article analyzes the links between research conditions and the use of open science at the doctoral level. It documents disparities in funding, supervision, infrastructure, and scientific networks, and then explores how these factors relate to the adoption of open resources. The objective is to shed light on the practical conditions for participation in scientific commons within doctoral research contexts in Senegal.
+:::
+
+\[1\] Is the Global South Less Green or Less Visible? Measuring the Potential for Job Greening on an International Scale.<button class="btn btn-sm btn-outline-secondary abstract-toggle"data-bs-toggle="collapse" data-bs-target="#absWP1" aria-expanded="false" aria-controls="absWP1">Abstract</button>
+
+::: {#absWP1 .collapse .abstract-block .mt-2}
+Current measures of job greening remain focused on the formal economies of the North, neglecting the massive informality of the economies of the South. This working paper proposes a new global mapping of activities with high greening potential. By cross-referencing NACE–ISIC with the European Green Taxonomy, we have constructed SAGE, a harmonised database derived from ILOSTAT microdata, disaggregated by gender, age, education, establishment size and formal/informal status. We introduce the concept of jobs with high greening potential (JHP), which is better suited to the contexts covered by SAGE than the category of 'green jobs'. Our results show a clear gradient: high-income countries have a higher concentration of HGPJ, while low-income economies lag behind and remain highly heterogeneous. Higher education graduates have much greater access to HGPJ, while young people and informal workers are largely excluded. Sectorally, water, waste and renewable energy services dominate in advanced countries, compared to agriculture and extraction in Southern economies. These results highlight the need to adapt greening measurement frameworks to informal economies in order to support a truly inclusive transition.
+:::
+
 ## Publications in Peer-reviewed Journals
 
 \[3\] **Mathieu**, A. (2024). "Foundations and conditions of green jobs in developing economies: Systematic literature review and bibliometric analysis". *Development and Sustainability in Economics and Finance*, 100016. <https://doi.org/10.1016/j.dsef.2024.100016><button class="btn btn-sm btn-outline-secondary abstract-toggle" data-bs-toggle="collapse" data-bs-target="#absA3" aria-expanded="false" aria-controls="absA3">Abstract</button>
@@ -60,22 +79,9 @@ Available at SSRN 4651669. <http://dx.doi.org/10.2139/ssrn.4651669><button class
 Presentation of the original SIECRT dataset, coding eight health measures in 26 small island economies. This dataset allows for analysis of the anticipation, intensity, and geography of public responses to the pandemic. An open resource, compatible with *Response2Covid19*, igit at is designed to compare the impact of insularity and political status on the health strategies implemented during the crisis.
 :::
 
-## Work in progress
-
-\[2\] *"The role of jobs with high greening potential in macroeconomic performance and sustainability"*, *Work in progress*.<button class="btn btn-sm btn-outline-secondary abstract-toggle"
-data-bs-toggle="collapse" data-bs-target="#absWP3" aria-expanded="false" aria-controls="absWP3">Abstract</button>
-
-::: {#absWP3 .collapse .abstract-block .mt-2}
-While the concept of ‘green’ jobs is gaining ground, its macroeconomic effects remain poorly studied, particularly in economies with high levels of informality. This study assesses the impact of jobs with high greening potential (HGPJ) on growth, resilience to cyclical downturns and intergenerational sustainability (adjusted real savings). Using a panel covering economies in the North and South, we combine fixed effects models and two-stage IV estimation using a synthetic geographical instrument (geo_index) to identify the causal effect of the share of GPJ. The results reveal a causal growth dividend: an exogenous increase in HGPJ stimulates GDP and mitigates both the frequency and depth of prolonged downturns. Informality, as measured by the self-employment rate, does not significantly alter these effects. With regard to sustainability, quadratic estimates show a U-shaped relationship: below a threshold of 30–35% of EFPV, transition costs reduce net savings, while above this threshold there appears to be a real green benefit. These results shed light on the institutional and social conditions necessary to transform the greening of employment into a sustainable driver of growth and resilience.
-:::
-
-\[1\] *"Greening jobs in the Global South: a critical and sectoral analysis of the potential for environmental transition"*, *Working paper*.<button class="btn btn-sm btn-outline-secondary abstract-toggle"data-bs-toggle="collapse" data-bs-target="#absWP2" aria-expanded="false" aria-controls="absWP2">Abstract</button>
-
-::: {#absWP2 .collapse .abstract-block .mt-2}
-Current measures of job greening remain focused on the formal economies of the North, neglecting the massive informality of the economies of the South. This working paper proposes a new global mapping of activities with high greening potential. By cross-referencing NACE–ISIC with the European Green Taxonomy, we have constructed SAGE, a harmonised database derived from ILOSTAT microdata, disaggregated by gender, age, education, establishment size and formal/informal status. We introduce the concept of jobs with high greening potential (JHP), which is better suited to the contexts covered by SAGE than the category of 'green jobs'. Our results show a clear gradient: high-income countries have a higher concentration of HGPJ, while low-income economies lag behind and remain highly heterogeneous. Higher education graduates have much greater access to HGPJ, while young people and informal workers are largely excluded. Sectorally, water, waste and renewable energy services dominate in advanced countries, compared to agriculture and extraction in Southern economies. These results highlight the need to adapt greening measurement frameworks to informal economies in order to support a truly inclusive transition.
-:::
-
 ## Datasets
+
+\[4\] Blanc, B. Mathieu, A. (2026) DEEPVAL: A Global Dataset of Monetary Values for Deep-Sea Ecosystem Services (1990-2014). Recherche Data Gouv. <https://doi.org/10.57745/PFJEAL>
 
 \[3\] Faye, D. B. Madioune, E.M. Nguirane, M.M. Randrianandrasana, R.A. **Mathieu**, A. Pian, L. Rihi, Y. Santini, S. (2026). *DWISE - Doctoral Work and Inequalities in Scientific Ecosystems*. DataSuds, V1. <https://doi.org/10.23708/ZRDYJU><button class="btn btn-sm btn-outline-secondary abstract-toggle" data-bs-toggle="collapse" data-bs-target="#absDWISE3" aria-expanded="false" aria-controls="absDWISE3">Abstract</button>
 
