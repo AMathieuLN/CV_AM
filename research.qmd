@@ -7,14 +7,13 @@ editor: visual
 
 ## Work in progress
 
-\[4\] A Global Bayesian Hierchichal Meta-Analysis of the Value of Deep-Sea Ecosystem Services. *With Benjamin Blanc, Armand Taranco, Vincent Geronimi*. 
+\[4\] A Global Bayesian Hierchichal Meta-Analysis of the Value of Deep-Sea Ecosystem Services. *With Benjamin Blanc, Armand Taranco, Vincent Geronimi*.
 
-\[3\] DEEPVAL: A Global Dataset of Monetary Values for Deep-Sea Ecosystem Services. *With Benjamin Blanc, Laurence Goury*. 
+\[3\] DEEPVAL: A Global Dataset of Monetary Values for Deep-Sea Ecosystem Services. *With Benjamin Blanc, Laurence Goury*.
 
-\[2\] Pouvons-nous tous participer à la science ouverte ? Dotations structurelles et capacités de recherche dans les parcours doctoraux sénégalais. *With Yanis Rihi, Loïc Pian, Mansour Nguirane, et al.*<button class="btn btn-sm btn-outline-secondary abstract-toggle"data-bs-toggle="collapse" data-bs-target="#absWP2" aria-expanded="false" aria-controls="absWP2">Abstract</button> 
+\[2\] Pouvons-nous tous participer à la science ouverte ? Dotations structurelles et capacités de recherche dans les parcours doctoraux sénégalais. *With Yanis Rihi, Loïc Pian, Mansour Nguirane, et al.*<button class="btn btn-sm btn-outline-secondary abstract-toggle"data-bs-toggle="collapse" data-bs-target="#absWP2" aria-expanded="false" aria-controls="absWP2">Abstract</button>
 
 ::: {#absWP2 .collapse .abstract-block .mt-2}
-
 Based on an original survey of 98 doctoral students at Cheikh Anta Diop University, this article analyzes the links between research conditions and the use of open science at the doctoral level. It documents disparities in funding, supervision, infrastructure, and scientific networks, and then explores how these factors relate to the adoption of open resources. The objective is to shed light on the practical conditions for participation in scientific commons within doctoral research contexts in Senegal.
 :::
 
@@ -81,7 +80,7 @@ Presentation of the original SIECRT dataset, coding eight health measures in 26 
 
 ## Datasets
 
-\[4\] Blanc, B. Mathieu, A. (2026) DEEPVAL: A Global Dataset of Monetary Values for Deep-Sea Ecosystem Services (1990-2014). Recherche Data Gouv. <https://doi.org/10.57745/PFJEAL>
+\[4\] Blanc, B. **Mathieu**, A. (2026) DEEPVAL: A Global Dataset of Monetary Values for Deep-Sea Ecosystem Services (1990-2014). Recherche Data Gouv. <https://doi.org/10.57745/PFJEAL>
 
 \[3\] Faye, D. B. Madioune, E.M. Nguirane, M.M. Randrianandrasana, R.A. **Mathieu**, A. Pian, L. Rihi, Y. Santini, S. (2026). *DWISE - Doctoral Work and Inequalities in Scientific Ecosystems*. DataSuds, V1. <https://doi.org/10.23708/ZRDYJU><button class="btn btn-sm btn-outline-secondary abstract-toggle" data-bs-toggle="collapse" data-bs-target="#absDWISE3" aria-expanded="false" aria-controls="absDWISE3">Abstract</button>
 
@@ -121,7 +120,7 @@ SIECRT is a new dataset focused on public health measures adopted by 26 small af
 This Internet monitoring identifies and describes the main databases useful for studying small island and coastal economies, with an emphasis on those covering a wide range of socio-economic and environmental areas. It presents international, regional and local databases, as well as resources dedicated to the vulnerability of SIDS, historical data, the Covid-19 pandemic and climate change.
 :::
 
-\[2\] **Mathieu**, A., Pian, L., Ba, M., Madioune, E. M., Moign, L., N'Da, L., Nguirane, M. M., Randriant-seheno, M., Rihi, Y. (2023). *Disparités doctorales entre Nord et Sud : bilan et stratégies de coordination juste à l'UMI SOURCE (2022-2023).*〈[hal-04336522](https://hal-lara.archives-ouvertes.fr/hal-04336522)〉<button class="btn btn-sm btn-outline-secondary abstract-toggle" data-bs-toggle="collapse" data-bs-target="#absUMI2" aria-expanded="false" aria-controls="absUMI2">Abstract</button>
+\[2\] **Mathieu**, A., Pian, L., Ba, M., Madioune, E. M., Moign, L., N'Da, L., Nguirane, M. M., Randriantseheno, M., Rihi, Y. (2023). *Disparités doctorales entre Nord et Sud : bilan et stratégies de coordination juste à l'UMI SOURCE (2022-2023).*〈[hal-04336522](https://hal-lara.archives-ouvertes.fr/hal-04336522)〉<button class="btn btn-sm btn-outline-secondary abstract-toggle" data-bs-toggle="collapse" data-bs-target="#absUMI2" aria-expanded="false" aria-controls="absUMI2">Abstract</button>
 
 ::: {#absUMI2 .collapse .abstract-block .mt-2}
 This report summarises the doctoral disparities between North and South within the UMI SOURCE and the actions undertaken in 2022–2023 to strengthen more equitable coordination. Through workshops, scientific days and the creation of the GTDID, the UMI has attempted to improve doctoral integration and foster new collaborations, despite persistent structural inequalities.
@@ -136,25 +135,25 @@ This closing speech reviews the main bridges that emerged during the ATM 2023 co
 # Research program
 
 ::: {.callout-note collapse="true"}
-## Towards an equitable and open North-South research community / Vers une communauté de recherche équitable et ouverte Nords-Suds (CREONS)
-
-CREONS is a research programme under development that examines structural inequalities in research funding and the conditions for more equitable and open science between the Global North and South. It combines three areas of work:
-
-1.  Documenting research inequalities in French-speaking Africa using previously unpublished data;
-2.  Co-developing open science and AI tools;
-3.  Defining equitable decarbonisation of research using a tool that combines carbon footprint and scientific benefits.
-
-Led by a transdisciplinary team of economists, geographers, sociologists and philosophers, CREONS is part of a political economy of science and a just transition in research, articulating epistemic, distributive and environmental justice.
-:::
-
-::: {.callout-note collapse="true"}
-## Working Group on Doctoral Disparities and Inequalities / Groupe de travail sur les Disparités et Inégalités Doctorales (GTDID)
+## Towards a Community for Research, Equitable, and Open North-South relations / Vers une communauté de recherche équitable et ouverte Nords-Suds (CREONS)
 
 Website: <https://umisource.github.io/GTDID/en/>
 
-In collaboration with doctoral students, researchers and research support staff, I took part in the formation of the GTDID, focusing on inequalities in doctoral research between North and South regions. We are conducting an analysis of doctoral conditions, highlighting the challenges of cultural and academic diversity, and carrying out an exhaustive review of the literature on doctoral disparities between North and South. The study focuses on the causes of these inequalities, such as funding, access to resources and working conditions, and their impact on developing research. A groundbreaking comparative empirical study is being organized, using mixed methods. This group is part of the IRD Working Group on Inequalities, with the participation of researchers and doctoral students.
+CREONS is a research programme under development that examines structural inequalities in scientific production and the conditions for more equitable research cooperation between the Global North and South. It builds on the Working Group on Doctoral Disparities and Inequalities (GTDID), now integrated into CREONS as one of its empirical foundations.
+
+The project combines three main areas of work:
+
+1.  **Scientific production capacities in the Sub-Saharian Africa**: Documenting how researchers, institutions and research systems develop, accumulate or lack the capacities needed to produce scientific knowledge.
+2.  **Open science and the development of scientific capacities**: analysing whether open science can strengthen scientific capacities in the Global South, or whether it risks reproducing existing asymmetries when resources and infrastructures remain unequally distributed.
+3.  Artificial intelligence and the transformation of scientific capacities: studying how generative AI transforms scientific work, and whether it enables new forms of capacity-building or creates new technological, cognitive and epistemic dependencies.
+
+Led by a transdisciplinary team of economists, geographers, sociologists and philosophers, CREONS contributes to a political economy of science, development and labour economics, research inequalities, epistemic justice, open science and artificial intelligence.
 
 **First productions:**
+
+-   Pouvons-nous tous participer à la science ouverte ? Dotations structurelles et capacités de recherche dans les parcours doctoraux sénégalais. in Études digitales (2026). *With Yanis Rihi, Loïc Pian, Mansour Nguirane, et al.*
+
+-   Faye, D. B. Madioune, E.M. Nguirane, M.M. Randrianandrasana, R.A. **Mathieu**, A. Pian, L. Rihi, Y. Santini, S. (2026). *DWISE - Doctoral Work and Inequalities in Scientific Ecosystems*. DataSuds, V1. <https://doi.org/10.23708/ZRDYJU>
 
 -   **Mathieu**, A. Rihi, Y. Massera, M. Moing, L. Nguirane, M.M. Madioune, E.M. Randriantseheno, M. Pian, L. (2024) "Doctoral inequalities between the Global North and the Global South: an initial exploration through literature" in *Dotoral Studies in Africa*. Ed. J-B. Meyer, A. African Minds. \[coming soon\]
 
@@ -189,4 +188,4 @@ In december 2024, qualitative research on the mobilization of local resources by
 
 -   **10/2025** **(Senegal)** - Qualitative survey conducted as part of the [GTDID](https://umisource.github.io/GTDID/fr/) on doctoral research conditions and the emergence of open science at Cheikh Anta Diop University, Dakar, Senegal.
 
--   **12/2024 (Madagascar)** - Qualitative survey on the mobilisation of local resources by local authorities in Madagascar - Sponsor: Cultural Cooperation and Action Service (SCAC), French Embassy in Madagascar (1 month).
+-   **12/2024 (Madagascar)** - Qualitative survey on the mobilisation of local resources by local authorities in Madagascar - Sponsor: Cultural Cooperation and Action Service (SCAC), French Embassy in Madagascar.
