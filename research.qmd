@@ -145,7 +145,7 @@ The project combines three main areas of work:
 
 1.  **Scientific production capacities in the Sub-Saharian Africa**: Documenting how researchers, institutions and research systems develop, accumulate or lack the capacities needed to produce scientific knowledge.
 2.  **Open science and the development of scientific capacities**: analysing whether open science can strengthen scientific capacities in the Global South, or whether it risks reproducing existing asymmetries when resources and infrastructures remain unequally distributed.
-3.  Artificial intelligence and the transformation of scientific capacities: studying how generative AI transforms scientific work, and whether it enables new forms of capacity-building or creates new technological, cognitive and epistemic dependencies.
+3.  **Artificial intelligence and the transformation of scientific capacities**: studying how generative AI transforms scientific work, and whether it enables new forms of capacity-building or creates new technological, cognitive and epistemic dependencies.
 
 Led by a transdisciplinary team of economists, geographers, sociologists and philosophers, CREONS contributes to a political economy of science, development and labour economics, research inequalities, epistemic justice, open science and artificial intelligence.
 
