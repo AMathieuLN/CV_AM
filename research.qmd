@@ -137,7 +137,7 @@ This closing speech reviews the main bridges that emerged during the ATM 2023 co
 ::: {.callout-note collapse="true"}
 ## CREONS project - Towards a Community for Research, Equitable, and Open North-South relations / Vers une communauté de recherche équitable et ouverte Nords-Suds
 
-Website: [https://umisource.github.io/CREONS/en/](https://umisource.github.io/GTDID/en/){.uri}
+Website: [https://umisource.github.io/CREONS/fr/](https://umisource.github.io/CREONS/fr/){.uri}
 
 CREONS is a research programme under development that examines structural inequalities in scientific production and the conditions for more equitable research cooperation between the Global North and South. It builds on the Working Group on Doctoral Disparities and Inequalities (GTDID), now integrated into CREONS as one of its empirical foundations.
 
