@@ -5,6 +5,15 @@ editor: visual
 
 # Conference/Seminar/Workshop participation
 
+## 2026
+
+-   [4th Open Science in the South Conference](https://opensciencesud4.sciencesconf.org/?lang=en). Capacity Building for Enhancing Scientific Visibility and Impact - Rabat 2026 (BNRM, IRD, UNESCO)
+
+- [4th Open Science in the South Conference](https://opensciencesud4.sciencesconf.org/?lang=en). Capacity Building for Enhancing Scientific Visibility and Impact - Rabat 2026 (BNRM, IRD, UNESCO)
+
+
+
+
 ## 2025
 
 -   [12th Annual Conference of the French Association of Environmental and Resource Economists](https://faere2025.sciencesconf.org/?lang=en) - FAERE 2025 (Nantes)
@@ -44,6 +53,7 @@ editor: visual
 -   Conference on Overseas Economic Days ARUM / [Journées économiques des Outre-mer ARUM](https://www.umi-source.uvsq.fr/lumi-source-represente-au-colloque-arum-2022) - October 2022 - organized by the Economic, Social and Environmental Council of France - CESE (Conseil Économique, Social et Environnemental), Paris (France).
 
 # Conference/Seminar/Workshop organization
+-   May 26 to@ June 5, 2026 - Co-organization and facilitation of the international training-of-trainers programme "[Open Science, Reproducibility and Equitable Research Partnerships (PSF CREONS)](https://www.umi-source.uvsq.fr/psf-creons-10-jours-de-formations-autour-de-la-science-ouverte-la-reproductibilite-et-les-partenariats-scientifiques-equitables)", funded by the French National Research Institute for Sustainable Development (IRD), bringing together participants from **Ivory Coast**, **France**, **Madagascar**, and **Senegal** – *Université de Versailles Saint-Quentin-en-Yvelines* (**France**).
 
 -   12/12/2025 - Organization and animation of the international workshop "[Towards an equitable and open Global North-South research community (CREONS)](https://www.umi-source.uvsq.fr/international-workshop-towards-an-equitable-and-open-global-north-south-research-community-creons)" (Dec. 12, 2025), Versailles Saint-Quentin-en-Yvelines (**France**).
 

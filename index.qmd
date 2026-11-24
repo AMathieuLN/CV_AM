@@ -27,6 +27,14 @@ I am a **political economist** working on development, labour, sustainability, d
 
 I completed my PhD in Economics at **Paris-Saclay University**, in September 2025. My broader research exprience also includes socio-**economic project evaluation**, **small island economies** and the valuation of **ecosystem services**.
 
+::: {style="border-left: 3px solid #557a95; padding-left: 15px; margin: 25px 0;"}
+
+[**2026 Open Science Thesis Award**]{style="font-size: 1.25em;"}
+
+*Awarded by the French Ministry of Higher Education and Research.*
+
+:::
+
 ## Current positions
 
 -   *Since 10/2025:* Postdoctoral researcher UMI SOURCE (Paris-Saclay University, UVSQ, IRD).
